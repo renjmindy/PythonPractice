@@ -106,7 +106,9 @@ clist = ["Canada","USA","Mexico"]
 
 * Can functions be called inside a function?
 
-* Can a function call itself? (hint: recursion)4. Can variables defined in a function be used in another function? (hint: scope)
+* Can a function call itself? (hint: recursion)
+
+* Can variables defined in a function be used in another function? (hint: scope)
 
 ### Lists
 
