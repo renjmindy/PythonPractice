@@ -2,15 +2,15 @@
 
 ## Basics 
 
-1. What is an expression? 
+Q1. What is an expression? 
 
  A: An expression is a combination of values, variables, operators, and calls to functions. Expressions need to be evaluated. 
 
-2. What is a syntax error? 
+Q2. What is a syntax error? 
 
  A: An error that occurs when a compiler or interpreter cannot understand the source code statement in order to generate machine code. 
 
-3. What is PEP8? 
+Q3. What is PEP8? 
 
  A: PEP 8, sometimes spelled PEP8 or PEP-8, is a document that provides guidelines and best practices on how to write Python code. The primary focus of PEP 8 is to improve the readability and consistency of Python code. PEP stands for Python Enhancement Proposal, and there are several of them. 
 
