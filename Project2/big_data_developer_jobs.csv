@@ -1,0 +1,753 @@
+,job_title,company_name,company_rating,company_location,job_descriptions
+0,Jr. Big Data Developer,Enhance IT,3.1,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management."
+1,HCS IT Data & Interoperative Developer - Epic Clarity Reporting - IT Analytics,UNC Health Care,3.9,"Morrisville, NC 27560",The developer will support reporting for inpatient and hospital quality from Epic EHR.
+2,Informatica Developer,Infosys Limited,3.9,"Raleigh, NC",Experience in preparing test scripts and test cases to validate data and maintaining data quality.
+3,AbInitio Developer,Infosys Limited,3.9,"Raleigh, NC",Experience in preparing test scripts and test cases to validate data and maintaining data quality.
+4,Data Architect,Onward Search,3.9,"Raleigh, NC","Participate in Data Governance Council with the objective of continuing to improve data quality, data availability, data security, and data maturity."
+5,Big Data Developer,Credit Suisse,3.9,N/A,"Build and optimize ‘big data’ data pipelines, architectures and data sets."
+6,BSA / Data Analyst,Ultimate Staffing Services,3.8,"Raleigh, NC 27513","Interact and coordinate with system developers and business subject matter experts on application changes, development, and deployment."
+7,"Associate, Low Code Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+8,HCS IT Data & Interoperative Developer - Epic Clarity Reporting - IT Analytics,UNC Health,3.9,N/A,The developer will support reporting for inpatient and hospital quality from Epic EHR.
+9,Research Data Scientist,RTI International,3.7,N/A,"Experience accessing, extracting, integrating, creating pipelines, and analyzing data from a wide variety of sources (e.g., relational databases, text and…"
+10,Data Analyst,TrialCard,3.3,N/A,"Understanding of dimensional data modeling concepts, as well as data warehousing design highly desirable."
+11,UX Research Intern,Lenovo,3.9,N/A,Detail-oriented with the ability to be pragmatic and keep the ‘big picture’ in mind.
+12,Data Scientist,Peraton,3.3,N/A,"Create data mining architectures/models/protocols, statistical reporting, and data analysis methodologies to identify trends in large data sets."
+13,Data Analyst/Programmer,RTI International,3.7,N/A,Organize data and construct analytic datasets from complex data sources.
+14,Intern-Solution Engineer,Celonis SE,N/A,N/A,All rely on Celonis technology to unlock their full execution capacity and drive change to business processes.
+15,Experienced Data Scientist,Itron,3.8,N/A,Responsible for completing predictive data analysis.
+16,Test Data Management Delphix Architect,TCS,3.8,N/A,"Works directly with delivery partners and others to gather requirements, conduct data analysis, develop test data designs, and build test data solutions."
+17,HCS IT Data & Interoperative Developer - Epic Clarity Reporting - IT Analytics,UNC Health,3.9,N/A,The developer will support reporting for inpatient and hospital quality from Epic EHR.
+18,Data Engineer,IBM,3.9,N/A,Perform data analysis to validate data quality.
+19,Intern-Solution Engineer,Celonis SE,N/A,N/A,All rely on Celonis technology to unlock their full execution capacity and drive change to business processes.
+20,Data Scientist,Infinia ML,N/A,N/A,"3+ years experience in machine learning, data science, data engineering, and/or computational software development."
+21,Senior Customer Support Engineer,Celonis,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+22,Staff Data Engineer,BitSight,N/A,N/A,"Collaborating with data science and research teams, you will build trust with Bitsight customers in the quality and integrity of our data."
+23,Data Architect,Random Bit,N/A,N/A,Transactional data store data modelling design using relational and document data patterns.
+24,CX Renewals - Data Analysis Manager,Cisco Systems,4.1,N/A,"5+ years experience with Tableau as a developer of data visualizations (preferably for dashboards), utilizing multiple integrated data sources."
+25,Senior Customer Support Engineer,Celonis SE,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+26,SalesForce Developer,IQVIA,3.8,N/A,"12-15 years of experience in data modelling, data architecture in enterprise application with multiple databases or data lake."
+27,Business Intelligence & Analytics Developer,North Carolina State University,4.2,N/A,"Coordinating with data engineers and systems analysts to build data environments providing data identified by data analysts, data integrators and subject matter…"
+28,UX Data Analyst,Lenovo,3.9,N/A,Interface with industry partners and internal teams to share data and encourage positive usage of opt-in telemetry data to improve user experiences.
+29,Lead Software Developer,S&P Global,3.9,N/A,"We integrate financial and industry data, research and news into tools that help track performance, generate alpha, identify investment ideas, understand…"
+30,Data Scientist,Infinia ML,N/A,N/A,"3+ years experience in machine learning, data science, data engineering, and/or computational software development."
+31,Intern-Solution Engineer,Celonis SE,N/A,N/A,All rely on Celonis technology to unlock their full execution capacity and drive change to business processes.
+32,Experienced Data Scientist,Itron,3.8,N/A,Responsible for completing predictive data analysis.
+33,Data Engineer,IBM,3.9,N/A,Perform data analysis to validate data quality.
+34,Test Data Management Delphix Architect,TCS,3.8,N/A,"Works directly with delivery partners and others to gather requirements, conduct data analysis, develop test data designs, and build test data solutions."
+35,Senior Customer Support Engineer,Celonis,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+36,Data Architect,Random Bit,N/A,N/A,Transactional data store data modelling design using relational and document data patterns.
+37,Staff Data Engineer,BitSight,N/A,N/A,"Collaborating with data science and research teams, you will build trust with Bitsight customers in the quality and integrity of our data."
+38,"Data Architect - Raleigh, NC",IBM,3.9,N/A,"5+ years of experience working on data integration, data analytics, and/or data science projects."
+39,Sr. Data QA Engineer - Remote or OnSite,Inmar,3.4,N/A,Collaborate with internal teams (e.g. developers and product managers) to identify system requirements.
+40,Senior Customer Support Engineer,Celonis SE,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+41,Lead Software Developer,S&P Global,3.9,N/A,"We integrate financial and industry data, research and news into tools that help track performance, generate alpha, identify investment ideas, understand…"
+42,SalesForce Developer,IQVIA,3.8,N/A,"12-15 years of experience in data modelling, data architecture in enterprise application with multiple databases or data lake."
+43,Business Intelligence & Analytics Developer,North Carolina State University,4.2,N/A,"Coordinating with data engineers and systems analysts to build data environments providing data identified by data analysts, data integrators and subject matter…"
+44,Lead Data Scientist,New Relic,3.3,N/A,Experience using data access tools and building visualizations using large datasets and multiple data sources.
+45,"Manager, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+46,Data Engineer,Labcorp,3.5,N/A,Healthcare experience is a big plus.
+47,FinOps BI Developer/Analyst,Pearson,3.7,N/A,"Respond to ad hoc data queries requests from business units with timely, accurate, and reliable data presented in an easy-to-understand fashion providing input…"
+48,Machine Learning Engineer,Bandwidth,3.9,N/A,"Collaborate with software developers, data platform engineers and data analysts to prototype, develop and deploy of machine learning models."
+49,GIS Application Developer,AECOM,3.7,N/A,"The developer will participate in the design, coding, testing, debugging, documentation and deployment of new customized GIS software and will maintain and…"
+50,IS Software Developer – Master Data,ABB,4.0,N/A,"As a IS Software Developer - Master Data, you will be responsible for executing assigned software development activities in a specialized area, focused on…"
+51,Business Developer Manager – AI Partners & Solutions,Lenovo,3.9,N/A,"Some Subject Matter Expertise regarding ML & DL models, frameworks, data science workflow, data pipelines, IoT devices & platforms, real-time analytics, Big…"
+52,"Sr. Director, Data, Integrated Insights and DSSR Architecture",IQVIA,3.8,N/A,"A minimum of 5 years as a commercial software data architecture, in a lead capacity;"
+53,Software Development Engineer in Test,Metabolon,3.5,N/A,"You will be working on tools and infrastructure challenges involving big data, machine learning, and large scale back-end web services, all with the goal of…"
+54,"Software Developer, Cloud Technologies - Raleigh, NC",IBM,3.9,N/A,Solve big data and distributed data streaming problems using latest technologies.
+55,Security Engineer,Epic Games,3.8,N/A,"Experience working with big data analytics to solve, prevent, or monitor for problems."
+56,Software Development Engineer,Piper Companies,4.5,N/A,The Software Development Engineer will be working to drive the growth of a big data biochemistry organization.
+57,Salesforce Administrator,Abrigo,3.0,N/A,Attention to detail and commitment to data quality.
+58,Senior Mobile Applications Developer,AURA TECHNOLOGIES LLC.,N/A,N/A,This is a technical lead and hands-on development role; you will be responsible for the implementation of mobile (Android and/or iOS) applications that comprise…
+59,IT Architect Intern (Summer 2021),IQVIA,3.8,N/A,"Provides guidance to the technical team on data mapping, and design practices to ensure proper data sourcing to the target data models."
+60,Data Scientist,Infinia ML,N/A,N/A,"3+ years experience in machine learning, data science, data engineering, and/or computational software development."
+61,Intern-Solution Engineer,Celonis SE,N/A,N/A,All rely on Celonis technology to unlock their full execution capacity and drive change to business processes.
+62,Experienced Data Scientist,Itron,3.8,N/A,Responsible for completing predictive data analysis.
+63,Data Engineer,IBM,3.9,N/A,Perform data analysis to validate data quality.
+64,Test Data Management Delphix Architect,TCS,3.8,N/A,"Works directly with delivery partners and others to gather requirements, conduct data analysis, develop test data designs, and build test data solutions."
+65,Senior Customer Support Engineer,Celonis,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+66,Data Architect,Random Bit,N/A,N/A,Transactional data store data modelling design using relational and document data patterns.
+67,Staff Data Engineer,BitSight,N/A,N/A,"Collaborating with data science and research teams, you will build trust with Bitsight customers in the quality and integrity of our data."
+68,"Data Architect - Raleigh, NC",IBM,3.9,N/A,"5+ years of experience working on data integration, data analytics, and/or data science projects."
+69,Sr. Data QA Engineer - Remote or OnSite,Inmar,3.4,N/A,Collaborate with internal teams (e.g. developers and product managers) to identify system requirements.
+70,Senior Customer Support Engineer,Celonis SE,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+71,Lead Software Developer,S&P Global,3.9,N/A,"We integrate financial and industry data, research and news into tools that help track performance, generate alpha, identify investment ideas, understand…"
+72,SalesForce Developer,IQVIA,3.8,N/A,"12-15 years of experience in data modelling, data architecture in enterprise application with multiple databases or data lake."
+73,Business Intelligence & Analytics Developer,North Carolina State University,4.2,N/A,"Coordinating with data engineers and systems analysts to build data environments providing data identified by data analysts, data integrators and subject matter…"
+74,Lead Data Scientist,New Relic,3.3,N/A,Experience using data access tools and building visualizations using large datasets and multiple data sources.
+75,FinOps BI Developer/Analyst,Pearson,3.7,N/A,"Respond to ad hoc data queries requests from business units with timely, accurate, and reliable data presented in an easy-to-understand fashion providing input…"
+76,Machine Learning Engineer,Bandwidth,3.9,N/A,"Collaborate with software developers, data platform engineers and data analysts to prototype, develop and deploy of machine learning models."
+77,GIS Application Developer,AECOM,3.7,N/A,"The developer will participate in the design, coding, testing, debugging, documentation and deployment of new customized GIS software and will maintain and…"
+78,Business Developer Manager – AI Partners & Solutions,Lenovo,3.9,N/A,"Some Subject Matter Expertise regarding ML & DL models, frameworks, data science workflow, data pipelines, IoT devices & platforms, real-time analytics, Big…"
+79,Software Development Engineer in Test,Metabolon,3.5,N/A,"You will be working on tools and infrastructure challenges involving big data, machine learning, and large scale back-end web services, all with the goal of…"
+80,"Software Developer, Cloud Technologies - Raleigh, NC",IBM,3.9,N/A,Solve big data and distributed data streaming problems using latest technologies.
+81,Security Engineer,Epic Games,3.8,N/A,"Experience working with big data analytics to solve, prevent, or monitor for problems."
+82,Software Development Engineer,Piper Companies,4.5,N/A,The Software Development Engineer will be working to drive the growth of a big data biochemistry organization.
+83,Salesforce Administrator,Abrigo,3.0,N/A,Attention to detail and commitment to data quality.
+84,Senior Mobile Applications Developer,AURA TECHNOLOGIES LLC.,N/A,N/A,This is a technical lead and hands-on development role; you will be responsible for the implementation of mobile (Android and/or iOS) applications that comprise…
+85,IT Architect Intern (Summer 2021),IQVIA,3.8,N/A,"Provides guidance to the technical team on data mapping, and design practices to ensure proper data sourcing to the target data models."
+86,Technical Architect,Credit Suisse,3.9,N/A,"Consulting and mentor developers in technical design, development standards & standard practices."
+87,Senior Customer Success Manager,New Relic,3.3,N/A,"We provide competitive compensation, equity, and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility, and fun of a start-up."
+88,Lead Embedded Software Developer,Eaton,3.8,N/A,"In doing so we are on the forefront of using the latest technologies, tools and methods."
+89,"Full Stack Developer - Raleigh, North Carolina",IBM,3.9,N/A,Define necessary data models and schemas for the applications you support.
+90,Experienced Data Scientist,Itron,3.8,N/A,Responsible for completing predictive data analysis.
+91,Test Data Management Delphix Architect,TCS,3.8,N/A,"Works directly with delivery partners and others to gather requirements, conduct data analysis, develop test data designs, and build test data solutions."
+92,HCS IT Data & Interoperative Developer - Epic Clarity Reporting - IT Analytics,UNC Health,3.9,N/A,The developer will support reporting for inpatient and hospital quality from Epic EHR.
+93,Data Engineer,IBM,3.9,N/A,Perform data analysis to validate data quality.
+94,Intern-Solution Engineer,Celonis SE,N/A,N/A,All rely on Celonis technology to unlock their full execution capacity and drive change to business processes.
+95,Data Scientist,Infinia ML,N/A,N/A,"3+ years experience in machine learning, data science, data engineering, and/or computational software development."
+96,Senior Customer Support Engineer,Celonis,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+97,Staff Data Engineer,BitSight,N/A,N/A,"Collaborating with data science and research teams, you will build trust with Bitsight customers in the quality and integrity of our data."
+98,Data Architect,Random Bit,N/A,N/A,Transactional data store data modelling design using relational and document data patterns.
+99,CX Renewals - Data Analysis Manager,Cisco Systems,4.1,N/A,"5+ years experience with Tableau as a developer of data visualizations (preferably for dashboards), utilizing multiple integrated data sources."
+100,Senior Customer Support Engineer,Celonis SE,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+101,SalesForce Developer,IQVIA,3.8,N/A,"12-15 years of experience in data modelling, data architecture in enterprise application with multiple databases or data lake."
+102,Business Intelligence & Analytics Developer,North Carolina State University,4.2,N/A,"Coordinating with data engineers and systems analysts to build data environments providing data identified by data analysts, data integrators and subject matter…"
+103,UX Data Analyst,Lenovo,3.9,N/A,Interface with industry partners and internal teams to share data and encourage positive usage of opt-in telemetry data to improve user experiences.
+104,Lead Software Developer,S&P Global,3.9,N/A,"We integrate financial and industry data, research and news into tools that help track performance, generate alpha, identify investment ideas, understand…"
+105,Data Engineer,Labcorp,3.5,N/A,Healthcare experience is a big plus.
+106,FinOps BI Developer/Analyst,Pearson,3.7,N/A,"Respond to ad hoc data queries requests from business units with timely, accurate, and reliable data presented in an easy-to-understand fashion providing input…"
+107,Machine Learning Engineer,Bandwidth,3.9,N/A,"Collaborate with software developers, data platform engineers and data analysts to prototype, develop and deploy of machine learning models."
+108,GIS Application Developer,AECOM,3.7,N/A,"The developer will participate in the design, coding, testing, debugging, documentation and deployment of new customized GIS software and will maintain and…"
+109,IS Software Developer – Master Data,ABB,4.0,N/A,"As a IS Software Developer - Master Data, you will be responsible for executing assigned software development activities in a specialized area, focused on…"
+110,Business Developer Manager – AI Partners & Solutions,Lenovo,3.9,N/A,"Some Subject Matter Expertise regarding ML & DL models, frameworks, data science workflow, data pipelines, IoT devices & platforms, real-time analytics, Big…"
+111,"Sr. Director, Data, Integrated Insights and DSSR Architecture",IQVIA,3.8,N/A,"A minimum of 5 years as a commercial software data architecture, in a lead capacity;"
+112,Web Designer/ Front-End Developer,CData Software,3.7,N/A,"CData sells data connectivity directly to thousands of enterprise customers, as well as indirectly through OEM partnerships with most of the leading data…"
+113,Software Development Engineer in Test,Metabolon,3.5,N/A,"You will be working on tools and infrastructure challenges involving big data, machine learning, and large scale back-end web services, all with the goal of…"
+114,"Software Developer, Cloud Technologies - Raleigh, NC",IBM,3.9,N/A,Solve big data and distributed data streaming problems using latest technologies.
+115,Security Engineer,Epic Games,3.8,N/A,"Experience working with big data analytics to solve, prevent, or monitor for problems."
+116,Software Development Engineer,Piper Companies,4.5,N/A,The Software Development Engineer will be working to drive the growth of a big data biochemistry organization.
+117,Salesforce Administrator,Abrigo,3.0,N/A,Attention to detail and commitment to data quality.
+118,Senior Mobile Applications Developer,AURA TECHNOLOGIES LLC.,N/A,N/A,This is a technical lead and hands-on development role; you will be responsible for the implementation of mobile (Android and/or iOS) applications that comprise…
+119,IT Architect Intern (Summer 2021),IQVIA,3.8,N/A,"Provides guidance to the technical team on data mapping, and design practices to ensure proper data sourcing to the target data models."
+120,Data Scientist,Infinia ML,N/A,N/A,"3+ years experience in machine learning, data science, data engineering, and/or computational software development."
+121,Intern-Solution Engineer,Celonis SE,N/A,N/A,All rely on Celonis technology to unlock their full execution capacity and drive change to business processes.
+122,Experienced Data Scientist,Itron,3.8,N/A,Responsible for completing predictive data analysis.
+123,Data Engineer,IBM,3.9,N/A,Perform data analysis to validate data quality.
+124,Test Data Management Delphix Architect,TCS,3.8,N/A,"Works directly with delivery partners and others to gather requirements, conduct data analysis, develop test data designs, and build test data solutions."
+125,Senior Customer Support Engineer,Celonis,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+126,Data Architect,Random Bit,N/A,N/A,Transactional data store data modelling design using relational and document data patterns.
+127,Staff Data Engineer,BitSight,N/A,N/A,"Collaborating with data science and research teams, you will build trust with Bitsight customers in the quality and integrity of our data."
+128,"Data Architect - Raleigh, NC",IBM,3.9,N/A,"5+ years of experience working on data integration, data analytics, and/or data science projects."
+129,Sr. Data QA Engineer - Remote or OnSite,Inmar,3.4,N/A,Collaborate with internal teams (e.g. developers and product managers) to identify system requirements.
+130,Senior Customer Support Engineer,Celonis SE,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+131,Lead Software Developer,S&P Global,3.9,N/A,"We integrate financial and industry data, research and news into tools that help track performance, generate alpha, identify investment ideas, understand…"
+132,SalesForce Developer,IQVIA,3.8,N/A,"12-15 years of experience in data modelling, data architecture in enterprise application with multiple databases or data lake."
+133,Business Intelligence & Analytics Developer,North Carolina State University,4.2,N/A,"Coordinating with data engineers and systems analysts to build data environments providing data identified by data analysts, data integrators and subject matter…"
+134,Lead Data Scientist,New Relic,3.3,N/A,Experience using data access tools and building visualizations using large datasets and multiple data sources.
+135,Test Data Management Delphix Architect,TCS,3.8,N/A,"Works directly with delivery partners and others to gather requirements, conduct data analysis, develop test data designs, and build test data solutions."
+136,HCS IT Data & Interoperative Developer - Epic Clarity Reporting - IT Analytics,UNC Health,3.9,N/A,The developer will support reporting for inpatient and hospital quality from Epic EHR.
+137,Data Engineer,IBM,3.9,N/A,Perform data analysis to validate data quality.
+138,Intern-Solution Engineer,Celonis SE,N/A,N/A,All rely on Celonis technology to unlock their full execution capacity and drive change to business processes.
+139,Data Scientist,Infinia ML,N/A,N/A,"3+ years experience in machine learning, data science, data engineering, and/or computational software development."
+140,Senior Customer Support Engineer,Celonis,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+141,Staff Data Engineer,BitSight,N/A,N/A,"Collaborating with data science and research teams, you will build trust with Bitsight customers in the quality and integrity of our data."
+142,BSA / Data Analyst,Ultimate Staffing Services,3.8,"Raleigh, NC 27513","Interact and coordinate with system developers and business subject matter experts on application changes, development, and deployment."
+143,Data Architect,Random Bit,N/A,N/A,Transactional data store data modelling design using relational and document data patterns.
+144,CX Renewals - Data Analysis Manager,Cisco Systems,4.1,N/A,"5+ years experience with Tableau as a developer of data visualizations (preferably for dashboards), utilizing multiple integrated data sources."
+145,Senior Customer Support Engineer,Celonis SE,N/A,N/A,"You will form the internal interface between our customers and our consulting, data science, development, product management and OEM partner."
+146,SalesForce Developer,IQVIA,3.8,N/A,"12-15 years of experience in data modelling, data architecture in enterprise application with multiple databases or data lake."
+147,Business Intelligence & Analytics Developer,North Carolina State University,4.2,N/A,"Coordinating with data engineers and systems analysts to build data environments providing data identified by data analysts, data integrators and subject matter…"
+148,UX Data Analyst,Lenovo,3.9,N/A,Interface with industry partners and internal teams to share data and encourage positive usage of opt-in telemetry data to improve user experiences.
+149,Lead Software Developer,S&P Global,3.9,N/A,"We integrate financial and industry data, research and news into tools that help track performance, generate alpha, identify investment ideas, understand…"
+150,Data Engineer,Labcorp,3.5,N/A,Healthcare experience is a big plus.
+151,Machine Learning Engineer,Bandwidth,3.9,N/A,"Collaborate with software developers, data platform engineers and data analysts to prototype, develop and deploy of machine learning models."
+152,GIS Application Developer,AECOM,3.7,N/A,"The developer will participate in the design, coding, testing, debugging, documentation and deployment of new customized GIS software and will maintain and…"
+153,"Software Developer, Cloud Technologies - Raleigh, NC",IBM,3.9,N/A,Solve big data and distributed data streaming problems using latest technologies.
+154,Software Development Engineer in Test,Metabolon,3.5,N/A,"You will be working on tools and infrastructure challenges involving big data, machine learning, and large scale back-end web services, all with the goal of…"
+155,Security Engineer,Epic Games,3.8,N/A,"Experience working with big data analytics to solve, prevent, or monitor for problems."
+156,Business Developer Manager – AI Partners & Solutions,Lenovo,3.9,N/A,"Some Subject Matter Expertise regarding ML & DL models, frameworks, data science workflow, data pipelines, IoT devices & platforms, real-time analytics, Big…"
+157,Salesforce Administrator,Abrigo,3.0,N/A,Attention to detail and commitment to data quality.
+158,IT Architect Intern (Summer 2021),IQVIA,3.8,N/A,"Provides guidance to the technical team on data mapping, and design practices to ensure proper data sourcing to the target data models."
+159,Software Development Engineer,Piper Companies,4.5,N/A,The Software Development Engineer will be working to drive the growth of a big data biochemistry organization.
+160,Senior Mobile Applications Developer,AURA TECHNOLOGIES LLC.,N/A,N/A,This is a technical lead and hands-on development role; you will be responsible for the implementation of mobile (Android and/or iOS) applications that comprise…
+161,Technical Architect,Credit Suisse,3.9,N/A,"Consulting and mentor developers in technical design, development standards & standard practices."
+162,Senior Customer Success Manager,New Relic,3.3,N/A,"We provide competitive compensation, equity, and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility, and fun of a start-up."
+163,Business Intelligence Web GUI Developer,Credit Suisse,3.9,N/A,"You will help build information-rich, insightful and appealing data visualizations and user interfaces for a wide variety of data products, following the latest…"
+164,Spark Scala Developer,Deloitte,4.0,N/A,"Experience on data lakes, datahub implementation."
+165,Jr. Big Data Developer,Enhance IT,3.1,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management."
+166,Big Data Developer (Azure) - Deloitte - (Remote / Contract),Experfy,N/A,"Boston, MA",Design big data batch processing and interactive solutions.
+167,"Data Scientists - Boston healthcare analytics startup PYTHON, R, Linux",The Bivium Group,N/A,"Boston, MA",We are hiring all levels of experience from super sharp recent grads (with at least 2 strong data science oriented internships/co-ops completed) to a Principal…
+168,"Manager of Software, Director of Software, Star Engineers - ecommerce, scaling, big data - UNICORN p",The Bivium Group,N/A,"Boston, MA","You should have experience in some mix of e-commerce, big data, mobile, or devops and have dealt regularly with MASSIVE SCALE ISSUES (livesite, e-commerce,…"
+169,"Spark and Scala Software Engineers, Junior to Director level - Boston big data",The Bivium Group,N/A,"Boston, MA","MUST HAVE Spark/Scala production experience AND have worked on big data, ai, nlp or healthcare analytics."
+170,Spark Scala Big Data Software Engineers - junior to Director - deep pockets,The Bivium Group,N/A,Massachusetts,"MUST HAVE Spark/Scala production experience AND have worked on big data, ai, nlp or healthcare analytics."
+171,Junior Data Analyst / Entry Level / Training,CCS Global Tech,N/A,N/A,"Ø Design, develop and maintain database, BI and data visualization applications per business needs."
+172,Data Scientist II,Homesite Insurance,3.2,N/A,Work with fellow data scientists and developer teams to translate models to business solutions and collaborate with other departments in the company when…
+173,Big Data Developer,Atos,3.5,N/A,"Strong understanding of the internals of Spark and Hadoop e.g. Data Frame, DAG, data partition and distribution, named node limitations, and tuning."
+174,Sr. Big Data Developer,IQVIA,3.8,N/A,Investigate data processing issues and make recommendations to resolve.
+175,Big Data Sr. Software Developer,AIR,3.4,N/A,Good knowledge of AWS data platform like Aurora/Redshift/RDS.
+176,Data Scientist,REsurety,N/A,N/A,Write efficient code to analyze decades of time series data.
+177,Data Analyst,Housing Partnership Network,N/A,N/A,Ensures data integrity and accuracy.
+178,"Sr. Software Application Developer, Big Data",PlaceIQ,3.9,N/A,"We love building regression models, classification algorithms, data visualizations, and geo-spatial clustering, within our location-data platform, which…"
+179,Data Scientist,Flipside Crypto,N/A,N/A,"Experience working with product teams, developers, and data engineers is a plus."
+180,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+181,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+182,QA Tester (Co-op),Retail Business Services,4.0,N/A,➔ Ability to write SQL queries to create test data and verify test results.
+183,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+184,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+185,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+186,Junior Full Stack Developer,Mathematica Policy Research,3.8,N/A,"We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and…"
+187,Microsoft ETL Developer,"W.B. Mason Company, Inc",2.8,N/A,Demonstrated knowledge of database structures and data architecture.
+188,Product Owner,BlueConic,N/A,N/A,"BlueConic is the market-leading customer data platform, which gives marketers the power to liberate their data and use it to improve marketing outcomes."
+189,"Project Manager / Business Manager, Data Science & Advanced Analytics",MassMutual,3.7,N/A,Manipulation of large data sets.
+190,ETL Developer,Healthedge,3.4,N/A,3-5 years of experience with big data technologies.
+191,Software Development Engineer (React Developer),Alldus,N/A,N/A,They use a combination of Machine Learning methods and Data Science to assist with their Drug Discovery process.
+192,Senior Middleware Developer,ACESTACK LLC,N/A,N/A,"Skills to communicate and collaborate with other teams to integrate with REST web services, frontend applications and data models."
+193,Lead Full Stack Developer,Mathematica Policy Research,3.8,N/A,Conduct code reviews with developers through pull requests.
+194,Data Transformation Analyst,Centric Consulting,4.2,N/A,Interact with business stakeholders to determine how to handle data quality and data governance concerns.
+195,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+196,Junior Full Stack Developer,Mathematica Policy Research,3.8,N/A,"We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and…"
+197,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+198,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+199,Data Architecture Consultant,Accenture,4.0,N/A,Ensure test data conforms to data security requirements.
+200,Lead Full Stack Developer,Mathematica Policy Research,3.8,N/A,Conduct code reviews with developers through pull requests.
+201,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+202,"Vice President, IT & Informatics",EdenRoc Sciences,N/A,N/A,Create a comprehensive roadmap for the overall cyber-security and data privacy capabilities with a strategy of “data privacy by design”.
+203,Software Developer Co-op,HFI-Healthcare Financial,N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+204,"Email Developer, Global CRM","Sonos, Inc",3.9,N/A,"Create send definitions, data extensions, send interactions and filters."
+205,"Project Manager / Business Manager, Data Science & Advanced Analytics",MassMutual,3.7,N/A,Manipulation of large data sets.
+206,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+207,Product Owner,BlueConic,N/A,N/A,"BlueConic is the market-leading customer data platform, which gives marketers the power to liberate their data and use it to improve marketing outcomes."
+208,Software Development Programmer,Karen Clark & Company,N/A,N/A,Opportunity to develop domain expertise in insurance and big data.
+209,Software Engineer,Red Hat Software,4.0,N/A,Design and implement disaster recovery processes for big data.
+210,"Data Engineer (EDW, Data Analytics Office)",Mass General Brigham(PHS),3.9,N/A,"Familiarity with data engineering, data governance and data quality principles."
+211,Data Engineer,"Commonwealth Equity Services, Inc.",N/A,N/A,Fulfilling data requests when the data elements are not yet built in the data warehouse.
+212,Data Architect,Uplight,4.3,N/A,"Your primary focus will be the creation of a new unified data model that facilitates access and interaction with energy, smart home, and 3rd party data."
+213,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+214,Software Developer Co-op,HFI-Healthcare Financial,N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+215,Data Analyst,The Community Builders,3.2,N/A,"Data management for various Community Life data sources utilizing R and R studio software (e.g. data cleaning, data analysis, and quality assurance)."
+216,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+217,Data Architecture Consultant,Accenture,4.0,N/A,Ensure test data conforms to data security requirements.
+218,Junior Full Stack Developer,Mathematica Policy Research,3.8,N/A,"We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and…"
+219,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+220,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+221,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+222,Microsoft ETL Developer,"W.B. Mason Company, Inc",2.8,N/A,Demonstrated knowledge of database structures and data architecture.
+223,Software Development Engineer (React Developer),Alldus,N/A,N/A,They use a combination of Machine Learning methods and Data Science to assist with their Drug Discovery process.
+224,Capital Data and Systems Analyst,Dept Housing & Community Dev,3.8,N/A,"C. Provides Annual Plan and Annual CIP support (troubleshooting, data updates via UI, communication with maintenance & support developer for bug fixes and…"
+225,Software Developer Co-op,HFI-Healthcare Financial,N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+226,Data Engineer,"Commonwealth Equity Services, Inc.",N/A,N/A,Fulfilling data requests when the data elements are not yet built in the data warehouse.
+227,Data Architect,Uplight,4.3,N/A,"Your primary focus will be the creation of a new unified data model that facilitates access and interaction with energy, smart home, and 3rd party data."
+228,"Senior Specialist, SQL BI Developer",BNY Mellon,3.5,N/A,Acts as a mentor to junior level developers.
+229,"Data Engineer (EDW, Data Analytics Office)",Mass General Brigham(PHS),3.9,N/A,"Familiarity with data engineering, data governance and data quality principles."
+230,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+231,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+232,Data Analyst,The Community Builders,3.2,N/A,"Data management for various Community Life data sources utilizing R and R studio software (e.g. data cleaning, data analysis, and quality assurance)."
+233,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+234,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+235,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+236,Microsoft ETL Developer,"W.B. Mason Company, Inc",2.8,N/A,Demonstrated knowledge of database structures and data architecture.
+237,Product Owner,BlueConic,N/A,N/A,"BlueConic is the market-leading customer data platform, which gives marketers the power to liberate their data and use it to improve marketing outcomes."
+238,Backend/Data Engineer - Personalization (Remote Eligible - Americas),Spotify,4.3,N/A,You are knowledgeable about data access and data storage techniques.
+239,Business Development Representative,Veracode,3.8,N/A,As a Business Development Representative you will be responsible for qualifying marketing leads and prospecting into target accounts.
+240,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+241,Junior Full Stack Developer,Mathematica Policy Research,3.8,N/A,"We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and…"
+242,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+243,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+244,Data Architecture Consultant,Accenture,4.0,N/A,Ensure test data conforms to data security requirements.
+245,Lead Full Stack Developer,Mathematica Policy Research,3.8,N/A,Conduct code reviews with developers through pull requests.
+246,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+247,"Vice President, IT & Informatics",EdenRoc Sciences,N/A,N/A,Create a comprehensive roadmap for the overall cyber-security and data privacy capabilities with a strategy of “data privacy by design”.
+248,Software Developer Co-op,HFI-Healthcare Financial,N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+249,"Email Developer, Global CRM","Sonos, Inc",3.9,N/A,"Create send definitions, data extensions, send interactions and filters."
+250,"Project Manager / Business Manager, Data Science & Advanced Analytics",MassMutual,3.7,N/A,Manipulation of large data sets.
+251,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+252,Product Owner,BlueConic,N/A,N/A,"BlueConic is the market-leading customer data platform, which gives marketers the power to liberate their data and use it to improve marketing outcomes."
+253,Software Development Programmer,Karen Clark & Company,N/A,N/A,Opportunity to develop domain expertise in insurance and big data.
+254,Software Engineer,Red Hat Software,4.0,N/A,Design and implement disaster recovery processes for big data.
+255,"Data Engineer (EDW, Data Analytics Office)",Mass General Brigham(PHS),3.9,N/A,"Familiarity with data engineering, data governance and data quality principles."
+256,Data Engineer,"Commonwealth Equity Services, Inc.",N/A,N/A,Fulfilling data requests when the data elements are not yet built in the data warehouse.
+257,Data Architect,Uplight,4.3,N/A,"Your primary focus will be the creation of a new unified data model that facilitates access and interaction with energy, smart home, and 3rd party data."
+258,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+259,Software Developer Co-op,HFI-Healthcare Financial,N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+260,Data Analyst,The Community Builders,3.2,N/A,"Data management for various Community Life data sources utilizing R and R studio software (e.g. data cleaning, data analysis, and quality assurance)."
+261,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+262,Data Architecture Consultant,Accenture,4.0,N/A,Ensure test data conforms to data security requirements.
+263,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+264,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+265,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+266,Microsoft ETL Developer,"W.B. Mason Company, Inc",2.8,N/A,Demonstrated knowledge of database structures and data architecture.
+267,Software Development Engineer (React Developer),Alldus,N/A,N/A,They use a combination of Machine Learning methods and Data Science to assist with their Drug Discovery process.
+268,Capital Data and Systems Analyst,Dept Housing & Community Dev,3.8,N/A,"C. Provides Annual Plan and Annual CIP support (troubleshooting, data updates via UI, communication with maintenance & support developer for bug fixes and…"
+269,State Rental Assistance Data Systems and Performance Analyst,Dept Housing & Community Dev,3.8,N/A,Work with the Assistant Director and software developers to complete SOHA.
+270,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+271,Data Architecture Consultant,Accenture,4.0,N/A,Ensure test data conforms to data security requirements.
+272,Junior Full Stack Developer,Mathematica Policy Research,3.8,N/A,"We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and…"
+273,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+274,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+275,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+276,Microsoft ETL Developer,"W.B. Mason Company, Inc",2.8,N/A,Demonstrated knowledge of database structures and data architecture.
+277,Software Development Engineer (React Developer),Alldus,N/A,N/A,They use a combination of Machine Learning methods and Data Science to assist with their Drug Discovery process.
+278,Product Owner,BlueConic,N/A,N/A,"BlueConic is the market-leading customer data platform, which gives marketers the power to liberate their data and use it to improve marketing outcomes."
+279,Senior Middleware Developer,ACESTACK LLC,N/A,N/A,"Skills to communicate and collaborate with other teams to integrate with REST web services, frontend applications and data models."
+280,Lead Full Stack Developer,Mathematica Policy Research,3.8,N/A,Conduct code reviews with developers through pull requests.
+281,"Project Manager / Business Manager, Data Science & Advanced Analytics",MassMutual,3.7,N/A,Manipulation of large data sets.
+282,Software Development Programmer,Karen Clark & Company,N/A,N/A,Opportunity to develop domain expertise in insurance and big data.
+283,Senior Data Engineer,Aborn & Co.,N/A,N/A,"Our Senior Data Engineer is responsible for every step of the data process, from managing data pipelines and data warehouses to analyzing data."
+284,ETL Developer,Healthedge,3.4,N/A,3-5 years of experience with big data technologies.
+285,"Senior Specialist, SQL BI Developer",BNY Mellon,3.5,N/A,Acts as a mentor to junior level developers.
+286,"Data Engineer (EDW, Data Analytics Office)",Mass General Brigham(PHS),3.9,N/A,"Familiarity with data engineering, data governance and data quality principles."
+287,Data Engineer,"Commonwealth Equity Services, Inc.",N/A,N/A,Fulfilling data requests when the data elements are not yet built in the data warehouse.
+288,Data Analyst II,Massachusetts General Hospital(MGH),4.3,N/A,"Work alongside the director and senior data analyst of the health data platform, to design, implement and deploy complex data models and processes to support…"
+289,Data Architect,Uplight,4.3,N/A,"Your primary focus will be the creation of a new unified data model that facilitates access and interaction with energy, smart home, and 3rd party data."
+290,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+291,Software Developer Co-op,HFI-Healthcare Financial,N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+292,Data Analyst,The Community Builders,3.2,N/A,"Data management for various Community Life data sources utilizing R and R studio software (e.g. data cleaning, data analysis, and quality assurance)."
+293,QA Tester (Co-op),Retail Business Services,4.0,N/A,➔ Ability to write SQL queries to create test data and verify test results.
+294,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+295,Data Architecture Consultant,Accenture,4.0,N/A,Ensure test data conforms to data security requirements.
+296,Junior Full Stack Developer,Mathematica Policy Research,3.8,N/A,"We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and…"
+297,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+298,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+299,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+300,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+301,Junior Full Stack Developer,Mathematica Policy Research,3.8,N/A,"We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and…"
+302,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+303,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+304,Data Architecture Consultant,Accenture,4.0,N/A,Ensure test data conforms to data security requirements.
+305,Lead Full Stack Developer,Mathematica Policy Research,3.8,N/A,Conduct code reviews with developers through pull requests.
+306,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+307,"Vice President, IT & Informatics",EdenRoc Sciences,N/A,N/A,Create a comprehensive roadmap for the overall cyber-security and data privacy capabilities with a strategy of “data privacy by design”.
+308,Software Developer Co-op,HFI-Healthcare Financial,N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+309,"Email Developer, Global CRM","Sonos, Inc",3.9,N/A,"Create send definitions, data extensions, send interactions and filters."
+310,"Project Manager / Business Manager, Data Science & Advanced Analytics",MassMutual,3.7,N/A,Manipulation of large data sets.
+311,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+312,Product Owner,BlueConic,N/A,N/A,"BlueConic is the market-leading customer data platform, which gives marketers the power to liberate their data and use it to improve marketing outcomes."
+313,Software Development Programmer,Karen Clark & Company,N/A,N/A,Opportunity to develop domain expertise in insurance and big data.
+314,Software Engineer,Red Hat Software,4.0,N/A,Design and implement disaster recovery processes for big data.
+315,"AML Technology: Application Developer - Big Data, AVP",State Street,3.5,N/A,"Be responsible for Data Engineering using Hadoop, Spark, Scala and associated big data technologies."
+316,Junior Full Stack Developer,Mathematica Policy Research,3.8,N/A,"We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and…"
+317,"VP Product Management, Effectv",Comcast,3.7,N/A,"You have a successful history of shipping innovative products on time with demonstrated analytical and quantitative skills, ability to use hard data and metrics…"
+318,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+319,Data Architecture Consultant,Accenture,4.0,N/A,Ensure test data conforms to data security requirements.
+320,Lead Full Stack Developer,Mathematica Policy Research,3.8,N/A,Conduct code reviews with developers through pull requests.
+321,Software Developer Co-op,"Healthcare Financial, Inc.",N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+322,"Vice President, IT & Informatics",EdenRoc Sciences,N/A,N/A,Create a comprehensive roadmap for the overall cyber-security and data privacy capabilities with a strategy of “data privacy by design”.
+323,Software Developer Co-op,HFI-Healthcare Financial,N/A,N/A,Process data and developing web applications and reporting tools supporting HFI’s new business initiatives and the speed or sudden variations in data collection…
+324,"Email Developer, Global CRM","Sonos, Inc",3.9,N/A,"Create send definitions, data extensions, send interactions and filters."
+325,"Project Manager / Business Manager, Data Science & Advanced Analytics",MassMutual,3.7,N/A,Manipulation of large data sets.
+326,Talend Big Data Architect,Cervello Inc,N/A,N/A,Experience with big data cross platform compatible file formats like Apache Avro & Apache Parquet.
+327,Product Owner,BlueConic,N/A,N/A,"BlueConic is the market-leading customer data platform, which gives marketers the power to liberate their data and use it to improve marketing outcomes."
+328,Software Development Programmer,Karen Clark & Company,N/A,N/A,Opportunity to develop domain expertise in insurance and big data.
+329,Software Engineer,Red Hat Software,4.0,N/A,Design and implement disaster recovery processes for big data.
+330,Jr. Big Data Developer,Enhance IT,3.1,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management."
+331,Data Engineer,Perfect Company,N/A,"Portland, OR",Work with 3rd-party data providers to implement data integrations.
+332,Data Engineering Manager,Ursus,4.9,"Portland, OR 97209 (Pearl District area)",There are about 8 big data projects that he/she will have to oversee.
+333,Big Data Software Engineer,CyberCoders,3.3,"Portland, OR 97201 (Homestead area)","Data modeling, data access and data storage techniques from within big data ecosystems like Apache Spark."
+334,Cloud Support Engineer I - Big Data,"Amazon Web Services, Inc.",3.5,N/A,Experience utilizing data analysis techniques such as quantitative or qualitative analysis.
+335,Quantitative Modeler / Data Scientist,Umpqua Bank,3.5,N/A,"2-4 years of work experience working as a data scientist, model developer, model validator or as a quant working at a bank or financial firm."
+336,Imaging Data Scientist,Intel,4.1,N/A,"Problem-solving, data mining and analytics, statistical analysis and project management skills."
+337,"Senior Scientist, Data Science",XPO Logistics,3.2,N/A,Help support data consumers to ensure they have reliable access to trusted data.
+338,Data Engineering Developer,Axian,N/A,N/A,You will be responsible for developing all data solutions as designed by the Data Engineering Tech Lead.
+339,Data Scientist,Fresh Consulting,3.5,N/A,Develop modeling and data processes in Python.
+340,"Associate, Low Code Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+341,Apparel Designer & Technical Developer,Evelyn & Bobbie,N/A,N/A,"Experience with wear-test data collection, survey creation and participation in innovation research studies is a plus."
+342,Data Engineering Technical Lead,Axian,N/A,N/A,"You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…"
+343,AI Support Engineer,DataRobot,3.8,N/A,"Experience with Data Science, Data Analyst, Data Operations, or any experience working with big data."
+344,Associate Data Scientist,Schrödinger,N/A,N/A,Verify data by comparing it to source documents and update existing data.
+345,Data Engineering Tech Lead,VanderHouwen,3.8,"Beaverton, OR","You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…"
+346,Senior Big Data Engineer,VanderHouwen,3.8,"Beaverton, OR","The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+347,Product Designer I,Cvent,3.6,N/A,Form theories and recommendations based on usage data and product analytics.
+348,Senior C++20 Engineer,Hydrolix,N/A,N/A,Designing/developing distributed data pipeline processors/flows.
+349,Desktop Support Technician - Portland,New Relic,3.3,N/A,"We provide competitive compensation including equity and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility, and fun of a…"
+350,"Vice President of Engineering, Consumer Solutions",Cambia Health Solutions,3.7,N/A,Working knowledge of big data technologies and high-volume transactional systems.
+351,"Director, Product Management-OpenTelemetry (Remote)",New Relic,3.3,N/A,"Product strategy: Define an OpenTelemetry strategy informed by customer and market insights, data analysis, competitive landscape, and company direction."
+352,BI Developer/Analyst (IT),Tektronix,3.6,N/A,Bring data to life through storytelling and advanced data visualization techniques.
+353,Senior Digital Project Manager,FINE,4.1,N/A,"Create scopes of work, estimates and resource allocations for big budget projects."
+354,"Manager, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+355,Sr Designer,eBay Inc.,3.9,N/A,"You will collaborate with our data, design, product and engineering teams and be responsible for creating ideas, communications, and interface for the shopping…"
+356,Cloud Services Developer,HP,4.0,N/A,Experience with big data and analytics.
+357,Technical Curriculum Developer (AWS Cloud Curriculum),"Amazon Web Services, Inc.",3.5,N/A,"Amazon Web Services (AWS) Training and Certification Team is looking for developers, technical trainers, or technical instructional designers who want be a part…"
+358,"Manager, Engineering",Smarsh,3.1,N/A,"Knowledge of/familiarity with big data technologies such as Hadoop, NoSQL."
+359,Snowflake DW Architect/Lead,Clifyx Technology.,N/A,N/A,Understand and document data flows in and between different systems/applications.
+360,Risk Data Engineer,"Genesis Financial Solutions, Inc.",2.9,N/A,"Experience building and optimizing ‘big data’ data pipelines, architectures and data sets."
+361,Product Designer I,Cvent,3.6,N/A,Form theories and recommendations based on usage data and product analytics.
+362,Senior C++20 Engineer,Hydrolix,N/A,N/A,Designing/developing distributed data pipeline processors/flows.
+363,Senior Data Engineer,FlexIT Inc,N/A,N/A,"The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+364,Senior Full Stack Developer (Must Relo to Portland OR post COVID),The Mom Project,N/A,"Beaverton, OR","Experience working with NoSQL data stores such as HBase, DynamoDB, etc."
+365,Data Engineering Tech Lead,VanderHouwen,3.8,"Beaverton, OR","You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…"
+366,Desktop Support Technician - Portland,New Relic,3.3,N/A,"We provide competitive compensation including equity and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility, and fun of a…"
+367,Senior Digital Project Manager,FINE,4.1,N/A,"Create scopes of work, estimates and resource allocations for big budget projects."
+368,BI Developer/Analyst (IT),Tektronix,3.6,N/A,Bring data to life through storytelling and advanced data visualization techniques.
+369,Senior Big Data Engineer,VanderHouwen,3.8,"Beaverton, OR","The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+370,"Vice President of Engineering, Consumer Solutions",Cambia Health Solutions,3.7,N/A,Working knowledge of big data technologies and high-volume transactional systems.
+371,"Director, Product Management-OpenTelemetry (Remote)",New Relic,3.3,N/A,"Product strategy: Define an OpenTelemetry strategy informed by customer and market insights, data analysis, competitive landscape, and company direction."
+372,"Manager, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+373,Sr Designer,eBay Inc.,3.9,N/A,"You will collaborate with our data, design, product and engineering teams and be responsible for creating ideas, communications, and interface for the shopping…"
+374,Cloud Services Developer,HP,4.0,N/A,Experience with big data and analytics.
+375,Business Controller - North America,"Edwards Vacuum, LLC",2.1,N/A,"Edwards is a leading developer and manufacturer of sophisticated vacuum products, exhaust management systems and related value-added services."
+376,AI Support Engineer,DataRobot,3.8,N/A,"Experience with Data Science, Data Analyst, Data Operations, or any experience working with big data."
+377,Data Science Engineer,Lytics,N/A,N/A,Interest in data science and data visualization.
+378,Data Engineer,FlexIT Inc,N/A,N/A,5+ years of experience with data engineering with emphasis on data analytics and reporting.
+379,Information Architect,FINE,4.1,N/A,Perform basic data modeling and mapping and working with our technical team as needed to validate.
+380,SEO Manager,FINE,4.1,N/A,Experience in collaborating with developers and designers to provide SEO recommendations.
+381,Big Data Software Engineer- SISW PLM 238504,Siemens,4.0,N/A,"The ideal candidate will have had experience with data modeling, data access and data storage techniques from within big data ecosystems like Apache Spark."
+382,Data Engineering Tech Lead,VanderHouwen,3.8,"Beaverton, OR","You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…"
+383,Machine Learning Engineer,Tacoma Public Utilities,4.1,N/A,Work with data engineers and solutions architects to build and optimize data pipelines for machine learning and data science solution processing.
+384,Senior Big Data Engineer,VanderHouwen,3.8,"Beaverton, OR","The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+385,Risk Data Engineer,"Genesis Financial Solutions, Inc.",2.9,N/A,"Experience building and optimizing ‘big data’ data pipelines, architectures and data sets."
+386,Lead Data Scientist,New Relic,3.3,N/A,Experience using data access tools and building visualizations using large datasets and multiple data sources.
+387,Application Technologist,Intel,4.1,N/A,"The Data Platforms Group drives new products technologies from high-end co-processors for supercomputers to low-energy systems for enterprise and the cloud, as…"
+388,Senior Copywriter,New Relic,3.3,N/A,"Creative, upbeat problem solver who collaborates with graphic designers and web developers."
+389,Process Developer - Account Administration,Genpact,3.8,N/A,Ability to handle repetitive data entry.
+390,Data Engineering Technical Lead,Axian,N/A,N/A,"You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…"
+391,Customer Care Supervisor,Nautilus,3.8,N/A,"We exist to serve consumer needs and wants, using data and our deep consumer knowledge to drive our decision making."
+392,"Data Analytics Manager, Marketplace Operations Analytics",Nike,4.1,N/A,"You will work in a product squad model led by a product manager and consisting of data analysts, engineers and visualization developers."
+393,Associate Data Scientist,Schrödinger,N/A,N/A,Verify data by comparing it to source documents and update existing data.
+394,Business Controller - North America,"Edwards Vacuum, LLC",2.1,N/A,"Edwards is a leading developer and manufacturer of sophisticated vacuum products, exhaust management systems and related value-added services."
+395,AI Support Engineer,DataRobot,3.8,N/A,"Experience with Data Science, Data Analyst, Data Operations, or any experience working with big data."
+396,Data Science Engineer,Lytics,N/A,N/A,Interest in data science and data visualization.
+397,Data Engineer,FlexIT Inc,N/A,N/A,5+ years of experience with data engineering with emphasis on data analytics and reporting.
+398,Information Architect,FINE,4.1,N/A,Perform basic data modeling and mapping and working with our technical team as needed to validate.
+399,SEO Manager,FINE,4.1,N/A,Experience in collaborating with developers and designers to provide SEO recommendations.
+400,User Interface Developer,SoSACorp,N/A,N/A,"SoSACorp’s Portland, OR office is looking for a user interface developer who is able to design, develop, and deploy user interfaces for new and existing web…"
+401,Big Data Software Engineer- SISW PLM 238504,Siemens,4.0,N/A,"The ideal candidate will have had experience with data modeling, data access and data storage techniques from within big data ecosystems like Apache Spark."
+402,Machine Learning Engineer,Tacoma Public Utilities,4.1,N/A,Work with data engineers and solutions architects to build and optimize data pipelines for machine learning and data science solution processing.
+403,"Front End Developer (Oregon, Silicon Valley or Remote)","Rulai, Inc.",N/A,N/A,"Deep understanding of modern frontend JavaScript frameworks, proficient with vue.js is a big plus."
+404,Risk Data Engineer,"Genesis Financial Solutions, Inc.",2.9,N/A,"Experience building and optimizing ‘big data’ data pipelines, architectures and data sets."
+405,Associate Data Scientist,Schrödinger,N/A,N/A,Verify data by comparing it to source documents and update existing data.
+406,Customer Care Supervisor,Nautilus,3.8,N/A,"We exist to serve consumer needs and wants, using data and our deep consumer knowledge to drive our decision making."
+407,"Data Analytics Manager, Marketplace Operations Analytics",Nike,4.1,N/A,"You will work in a product squad model led by a product manager and consisting of data analysts, engineers and visualization developers."
+408,SEO Manager,FINE,4.1,N/A,Experience in collaborating with developers and designers to provide SEO recommendations.
+409,Business Controller - North America,"Edwards Vacuum, LLC",2.1,N/A,"Edwards is a leading developer and manufacturer of sophisticated vacuum products, exhaust management systems and related value-added services."
+410,Big Data Software Engineer- SISW PLM 238504,Siemens,4.0,N/A,"The ideal candidate will have had experience with data modeling, data access and data storage techniques from within big data ecosystems like Apache Spark."
+411,Engineering Manager,AT&T,3.7,N/A,"Care about solving big, systemic problems."
+412,Solution Architect - Data & Analytics,Deloitte,4.0,N/A,Strong understanding of data modeling and data architecture.
+413,Data Science Engineer,Lytics,N/A,N/A,Interest in data science and data visualization.
+414,User Interface Developer,SoSACorp,N/A,N/A,"SoSACorp’s Portland, OR office is looking for a user interface developer who is able to design, develop, and deploy user interfaces for new and existing web…"
+415,Machine Learning Engineer,Tacoma Public Utilities,4.1,N/A,Work with data engineers and solutions architects to build and optimize data pipelines for machine learning and data science solution processing.
+416,Information Architect,FINE,4.1,N/A,Perform basic data modeling and mapping and working with our technical team as needed to validate.
+417,Lead Data Scientist,New Relic,3.3,N/A,Experience using data access tools and building visualizations using large datasets and multiple data sources.
+418,Process Developer - Account Administration,Genpact,3.8,N/A,Ability to handle repetitive data entry.
+419,Data Engineer,FlexIT Inc,N/A,N/A,5+ years of experience with data engineering with emphasis on data analytics and reporting.
+420,Risk Data Engineer,"Genesis Financial Solutions, Inc.",2.9,N/A,"Experience building and optimizing ‘big data’ data pipelines, architectures and data sets."
+421,Senior Data Engineer,FlexIT Inc,N/A,N/A,"The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+422,Product Designer I,Cvent,3.6,N/A,Form theories and recommendations based on usage data and product analytics.
+423,Senior C++20 Engineer,Hydrolix,N/A,N/A,Designing/developing distributed data pipeline processors/flows.
+424,Desktop Support Technician - Portland,New Relic,3.3,N/A,"We provide competitive compensation including equity and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility, and fun of a…"
+425,"Vice President of Engineering, Consumer Solutions",Cambia Health Solutions,3.7,N/A,Working knowledge of big data technologies and high-volume transactional systems.
+426,"Director, Product Management-OpenTelemetry (Remote)",New Relic,3.3,N/A,"Product strategy: Define an OpenTelemetry strategy informed by customer and market insights, data analysis, competitive landscape, and company direction."
+427,Data Engineering Tech Lead,VanderHouwen,3.8,"Beaverton, OR","You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…"
+428,Senior Big Data Engineer,VanderHouwen,3.8,"Beaverton, OR","The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+429,BI Developer/Analyst (IT),Tektronix,3.6,N/A,Bring data to life through storytelling and advanced data visualization techniques.
+430,Senior Digital Project Manager,FINE,4.1,N/A,"Create scopes of work, estimates and resource allocations for big budget projects."
+431,"Manager, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+432,Sr Designer,eBay Inc.,3.9,N/A,"You will collaborate with our data, design, product and engineering teams and be responsible for creating ideas, communications, and interface for the shopping…"
+433,Cloud Services Developer,HP,4.0,N/A,Experience with big data and analytics.
+434,Technical Curriculum Developer (AWS Cloud Curriculum),"Amazon Web Services, Inc.",3.5,N/A,"Amazon Web Services (AWS) Training and Certification Team is looking for developers, technical trainers, or technical instructional designers who want be a part…"
+435,Customer Care Supervisor,Nautilus,3.8,N/A,"We exist to serve consumer needs and wants, using data and our deep consumer knowledge to drive our decision making."
+436,"Data Analytics Manager, Marketplace Operations Analytics",Nike,4.1,N/A,"You will work in a product squad model led by a product manager and consisting of data analysts, engineers and visualization developers."
+437,SEO Manager,FINE,4.1,N/A,Experience in collaborating with developers and designers to provide SEO recommendations.
+438,Data Engineering Tech Lead,VanderHouwen,3.8,"Beaverton, OR","You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…"
+439,Business Controller - North America,"Edwards Vacuum, LLC",2.1,N/A,"Edwards is a leading developer and manufacturer of sophisticated vacuum products, exhaust management systems and related value-added services."
+440,Big Data Software Engineer- SISW PLM 238504,Siemens,4.0,N/A,"The ideal candidate will have had experience with data modeling, data access and data storage techniques from within big data ecosystems like Apache Spark."
+441,Solution Architect - Data & Analytics,Deloitte,4.0,N/A,Strong understanding of data modeling and data architecture.
+442,Data Science Engineer,Lytics,N/A,N/A,Interest in data science and data visualization.
+443,Senior Big Data Engineer,VanderHouwen,3.8,"Beaverton, OR","The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+444,Machine Learning Engineer,Tacoma Public Utilities,4.1,N/A,Work with data engineers and solutions architects to build and optimize data pipelines for machine learning and data science solution processing.
+445,Information Architect,FINE,4.1,N/A,Perform basic data modeling and mapping and working with our technical team as needed to validate.
+446,Lead Data Scientist,New Relic,3.3,N/A,Experience using data access tools and building visualizations using large datasets and multiple data sources.
+447,Process Developer - Account Administration,Genpact,3.8,N/A,Ability to handle repetitive data entry.
+448,Senior Copywriter,New Relic,3.3,N/A,"Creative, upbeat problem solver who collaborates with graphic designers and web developers."
+449,Risk Data Engineer,"Genesis Financial Solutions, Inc.",2.9,N/A,"Experience building and optimizing ‘big data’ data pipelines, architectures and data sets."
+450,Associate Data Scientist,Schrödinger,N/A,N/A,Verify data by comparing it to source documents and update existing data.
+451,Customer Care Supervisor,Nautilus,3.8,N/A,"We exist to serve consumer needs and wants, using data and our deep consumer knowledge to drive our decision making."
+452,"Data Analytics Manager, Marketplace Operations Analytics",Nike,4.1,N/A,"You will work in a product squad model led by a product manager and consisting of data analysts, engineers and visualization developers."
+453,SEO Manager,FINE,4.1,N/A,Experience in collaborating with developers and designers to provide SEO recommendations.
+454,Business Controller - North America,"Edwards Vacuum, LLC",2.1,N/A,"Edwards is a leading developer and manufacturer of sophisticated vacuum products, exhaust management systems and related value-added services."
+455,Big Data Software Engineer- SISW PLM 238504,Siemens,4.0,N/A,"The ideal candidate will have had experience with data modeling, data access and data storage techniques from within big data ecosystems like Apache Spark."
+456,Engineering Manager,AT&T,3.7,N/A,"Care about solving big, systemic problems."
+457,Solution Architect - Data & Analytics,Deloitte,4.0,N/A,Strong understanding of data modeling and data architecture.
+458,Data Science Engineer,Lytics,N/A,N/A,Interest in data science and data visualization.
+459,User Interface Developer,SoSACorp,N/A,N/A,"SoSACorp’s Portland, OR office is looking for a user interface developer who is able to design, develop, and deploy user interfaces for new and existing web…"
+460,Machine Learning Engineer,Tacoma Public Utilities,4.1,N/A,Work with data engineers and solutions architects to build and optimize data pipelines for machine learning and data science solution processing.
+461,Information Architect,FINE,4.1,N/A,Perform basic data modeling and mapping and working with our technical team as needed to validate.
+462,Lead Data Scientist,New Relic,3.3,N/A,Experience using data access tools and building visualizations using large datasets and multiple data sources.
+463,Process Developer - Account Administration,Genpact,3.8,N/A,Ability to handle repetitive data entry.
+464,Data Engineer,FlexIT Inc,N/A,N/A,5+ years of experience with data engineering with emphasis on data analytics and reporting.
+465,Business Controller - North America,"Edwards Vacuum, LLC",2.1,N/A,"Edwards is a leading developer and manufacturer of sophisticated vacuum products, exhaust management systems and related value-added services."
+466,AI Support Engineer,DataRobot,3.8,N/A,"Experience with Data Science, Data Analyst, Data Operations, or any experience working with big data."
+467,Data Science Engineer,Lytics,N/A,N/A,Interest in data science and data visualization.
+468,Information Architect,FINE,4.1,N/A,Perform basic data modeling and mapping and working with our technical team as needed to validate.
+469,SEO Manager,FINE,4.1,N/A,Experience in collaborating with developers and designers to provide SEO recommendations.
+470,Big Data Software Engineer- SISW PLM 238504,Siemens,4.0,N/A,"The ideal candidate will have had experience with data modeling, data access and data storage techniques from within big data ecosystems like Apache Spark."
+471,Data Engineering Tech Lead,VanderHouwen,3.8,"Beaverton, OR","You will be responsible for verifying requirements, defining architecture, developing an implementation plan, providing thought leadership for all data…"
+472,Machine Learning Engineer,Tacoma Public Utilities,4.1,N/A,Work with data engineers and solutions architects to build and optimize data pipelines for machine learning and data science solution processing.
+473,Senior Big Data Engineer,VanderHouwen,3.8,"Beaverton, OR","The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+474,Risk Data Engineer,"Genesis Financial Solutions, Inc.",2.9,N/A,"Experience building and optimizing ‘big data’ data pipelines, architectures and data sets."
+475,Lead Data Scientist,New Relic,3.3,N/A,Experience using data access tools and building visualizations using large datasets and multiple data sources.
+476,Application Technologist,Intel,4.1,N/A,"The Data Platforms Group drives new products technologies from high-end co-processors for supercomputers to low-energy systems for enterprise and the cloud, as…"
+477,Senior Copywriter,New Relic,3.3,N/A,"Creative, upbeat problem solver who collaborates with graphic designers and web developers."
+478,Process Developer - Account Administration,Genpact,3.8,N/A,Ability to handle repetitive data entry.
+479,Engineering Manager,AT&T,3.7,N/A,"Care about solving big, systemic problems."
+480,Machine Learning Engineer,Tacoma Public Utilities,4.1,N/A,Work with data engineers and solutions architects to build and optimize data pipelines for machine learning and data science solution processing.
+481,Information Architect,FINE,4.1,N/A,Perform basic data modeling and mapping and working with our technical team as needed to validate.
+482,"Front End Developer (Oregon, Silicon Valley or Remote)","Rulai, Inc.",N/A,N/A,"Deep understanding of modern frontend JavaScript frameworks, proficient with vue.js is a big plus."
+483,Risk Data Engineer,"Genesis Financial Solutions, Inc.",2.9,N/A,"Experience building and optimizing ‘big data’ data pipelines, architectures and data sets."
+484,Product Designer I,Cvent,3.6,N/A,Form theories and recommendations based on usage data and product analytics.
+485,Senior C++20 Engineer,Hydrolix,N/A,N/A,Designing/developing distributed data pipeline processors/flows.
+486,Senior Data Engineer,FlexIT Inc,N/A,N/A,"The Data Engineer will collaborate with product owners, developers, database architects, data analysts, visual developers and data scientists on data…"
+487,Desktop Support Technician - Portland,New Relic,3.3,N/A,"We provide competitive compensation including equity and big-company benefits (medical, dental, etc.)—all while maintaining the energy, agility, and fun of a…"
+488,Senior Digital Project Manager,FINE,4.1,N/A,"Create scopes of work, estimates and resource allocations for big budget projects."
+489,BI Developer/Analyst (IT),Tektronix,3.6,N/A,Bring data to life through storytelling and advanced data visualization techniques.
+490,"Vice President of Engineering, Consumer Solutions",Cambia Health Solutions,3.7,N/A,Working knowledge of big data technologies and high-volume transactional systems.
+491,"Director, Product Management-OpenTelemetry (Remote)",New Relic,3.3,N/A,"Product strategy: Define an OpenTelemetry strategy informed by customer and market insights, data analysis, competitive landscape, and company direction."
+492,"Manager, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+493,Sr Designer,eBay Inc.,3.9,N/A,"You will collaborate with our data, design, product and engineering teams and be responsible for creating ideas, communications, and interface for the shopping…"
+494,Cloud Services Developer,HP,4.0,N/A,Experience with big data and analytics.
+495,Data Integration Developer,Reliant Funding,3.8,"San Diego, CA 92121 (University City area)",Optimizes data warehouse performance by addressing any data conflicts that arise and keeping data definitions up to date.
+496,"Software Engineer 2, Big Data",Intuit,4.2,"San Diego, CA 92101",N/A
+497,Jr. Big Data Developer,Enhance IT,3.1,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management."
+498,Intern - Information Security: Application Security,Teradata,3.8,"San Diego, CA",Design and implement solutions to integrate security tooling into the software development lifecycle Build proof of concept code to help developers understand…
+499,Data Scientist Intern,Accenture,4.0,"San Diego, CA","Performing data processing, data analysis, visualization and reporting."
+500,"Staff Software Engineer, Big Data",Intuit,4.2,"San Diego, CA 92101",Design and develop big data and real-time analytics solutions using industry standard technologies.
+501,Data Engineer,Itility,N/A,"San Diego, CA",Own data quality and data knowledge around all data that you touch.
+502,Entry Level Data Analyst (STEM) and Paid Internship,PCS Global Tech,N/A,N/A,"Maintain, support, and enhance the business intelligence data backend, including data warehouses and data lakes."
+503,Data Visualization Developer,1POINT21 Interactive,N/A,N/A,2+ years of experience as a data scientist or data visualization specialist.
+504,Scientific Software Developer and Researcher,UC San Diego,4.2,N/A,Intermediate knowledge of HPC / data science / CI.
+505,"Data, Analytics & Insights Internship",Neil Patel Digital,4.2,N/A,Detecting and debugging data issues to ensure data quality.
+506,EHR Developer,San Ysidro Health,3.7,N/A,"Knowledge of Electronic Health Records Systems, Health Care Specific Data Interface standards, and health information exchange technologies a big plus."
+507,"Data, Analytics & Insights Internship",NP Digital,N/A,N/A,Detecting and debugging data issues to ensure data quality.
+508,SYS ADM 4,UC San Diego,4.2,N/A,"Incumbent will work with critical data systems to lead the effort to deliver a platform for computation, research and data sharing across the organization."
+509,Sr BI Developer,"NuVasive, Inc.",3.4,N/A,Help with design of data marts & data models by integrating data sources from desperate systems.
+510,Backend Developer | California,Photon,3.3,N/A,§ Experience using big data databases such as Hadoop with Apache Spark.
+511,Data Engineer,Guild Mortgage Company LLC,N/A,N/A,"Responsibilities include supporting software developer, database architects, data analysts and data scientists on various data initiatives as well as ensuring…"
+512,Machine Learning Developer,Realty Income Corporation,4.3,N/A,"Understanding of data structures, data modeling and software architecture."
+513,"Program Manager, Small Business Insights",Amazon.com Services LLC,3.5,N/A,Experience managing Redshift data tables.
+514,Data Engineer,CyberCoders,3.3,"San Diego, CA 92123","Continue to enhance data systems to efficiently intake, transform, and store massive data sets."
+515,Senior Software Developer - PHP / LARAVEL,Iteris,3.2,N/A,"We collect, aggregate and analyze data on traffic, roads and driver behavior to generate precise informatics that lead to safer transportation and saving lives."
+516,Sr. Visualization Developer,BAE Systems,3.8,N/A,GXP is looking for a senior level visualization developer.
+517,Sr. Data Quality Engineer,ecoATM Gazelle,3.8,N/A,"5+ years of hands-on data testing experience in big data warehouse environment, dealing with large diverse data sets."
+518,Lead Data Engineer (remote),ThoughtWorks,4.2,N/A,"Working with data excites you: you have created Big data architecture, you can build and operate data pipelines, and maintain data storage, all within…"
+519,Enterprise West Solutions Architect,Databricks,N/A,N/A,Experience designing and architecting distributed data systems.
+520,Software Development Manager,Amazon.com Services LLC,3.5,N/A,"Want to join a team that saves millions of dollars per year for Amazon and uses cutting edge technology, including machine learning and statistical modeling…"
+521,Principal Business Intelligence Developer,Epsilon,3.4,N/A,"Provide hands-on implementation and subject-matter expertise around data warehouse, data marts, reporting data and ETL sub systems for the Enterprise Data…"
+522,Cybersecurity Engineer 2,Dexcom,3.3,N/A,Interprets data and draws conclusions regarding results used in presented material.
+523,"Manager, Site Reliability Engineering",Sony Interactive Entertainment PlayStation,3.7,N/A,"He/She must also have strong planning, organizational, communication skills, and be a key driver to help the team understand the big picture perspective."
+524,Senior Software Developer,BHHS California Properties,N/A,N/A,"We are building strategic new business systems critical to the ongoing success of our company in areas such as information retrieval, big data, artificial…"
+525,Web Developer,1POINT21 Interactive,N/A,N/A,"Creating interactive websites, animations and data visualizations."
+526,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+527,Principal Software Developer -Big Data (San Diego),"TouchCommerce, Inc.",2.9,N/A,"Experience working with high volumes of data, distributed processing and concurrency."
+528,Backend Developer | California,Photon,3.3,N/A,§ Experience using big data databases such as Hadoop with Apache Spark.
+529,Data Engineer,Guild Mortgage Company LLC,N/A,N/A,"Responsibilities include supporting software developer, database architects, data analysts and data scientists on various data initiatives as well as ensuring…"
+530,Scientific Software Developer,UC San Diego,4.2,N/A,"Proven vision in discovering/defining/publishing new methods to support Bioinformatics data standards, tools, algorithms and/or data structures."
+531,"Program Manager, Small Business Insights",Amazon.com Services LLC,3.5,N/A,Experience managing Redshift data tables.
+532,Senior Software Developer - PHP / LARAVEL,Iteris,3.2,N/A,"We collect, aggregate and analyze data on traffic, roads and driver behavior to generate precise informatics that lead to safer transportation and saving lives."
+533,Sr. Visualization Developer,BAE Systems,3.8,N/A,GXP is looking for a senior level visualization developer.
+534,Sr. Data Quality Engineer,ecoATM Gazelle,3.8,N/A,"5+ years of hands-on data testing experience in big data warehouse environment, dealing with large diverse data sets."
+535,Lead Data Engineer (remote),ThoughtWorks,4.2,N/A,"Working with data excites you: you have created Big data architecture, you can build and operate data pipelines, and maintain data storage, all within…"
+536,Enterprise West Solutions Architect,Databricks,N/A,N/A,Experience designing and architecting distributed data systems.
+537,Software Development Manager,Amazon.com Services LLC,3.5,N/A,"Want to join a team that saves millions of dollars per year for Amazon and uses cutting edge technology, including machine learning and statistical modeling…"
+538,Principal Business Intelligence Developer,Epsilon,3.4,N/A,"Provide hands-on implementation and subject-matter expertise around data warehouse, data marts, reporting data and ETL sub systems for the Enterprise Data…"
+539,Cybersecurity Engineer 2,Dexcom,3.3,N/A,Interprets data and draws conclusions regarding results used in presented material.
+540,Web Developer,1POINT21 Interactive,N/A,N/A,"Creating interactive websites, animations and data visualizations."
+541,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+542,Principal Software Developer -Big Data (San Diego),"TouchCommerce, Inc.",2.9,N/A,"Experience working with high volumes of data, distributed processing and concurrency."
+543,Backend Developer | California,Photon,3.3,N/A,§ Experience using big data databases such as Hadoop with Apache Spark.
+544,Data Engineer,Guild Mortgage Company LLC,N/A,N/A,"Responsibilities include supporting software developer, database architects, data analysts and data scientists on various data initiatives as well as ensuring…"
+545,Scientific Software Developer,UC San Diego,4.2,N/A,"Proven vision in discovering/defining/publishing new methods to support Bioinformatics data standards, tools, algorithms and/or data structures."
+546,"Program Manager, Small Business Insights",Amazon.com Services LLC,3.5,N/A,Experience managing Redshift data tables.
+547,Senior Software Developer - PHP / LARAVEL,Iteris,3.2,N/A,"We collect, aggregate and analyze data on traffic, roads and driver behavior to generate precise informatics that lead to safer transportation and saving lives."
+548,Sr. Visualization Developer,BAE Systems,3.8,N/A,GXP is looking for a senior level visualization developer.
+549,Sr. Data Quality Engineer,ecoATM Gazelle,3.8,N/A,"5+ years of hands-on data testing experience in big data warehouse environment, dealing with large diverse data sets."
+550,Lead Data Engineer (remote),ThoughtWorks,4.2,N/A,"Working with data excites you: you have created Big data architecture, you can build and operate data pipelines, and maintain data storage, all within…"
+551,Enterprise West Solutions Architect,Databricks,N/A,N/A,Experience designing and architecting distributed data systems.
+552,Software Development Manager,Amazon.com Services LLC,3.5,N/A,"Want to join a team that saves millions of dollars per year for Amazon and uses cutting edge technology, including machine learning and statistical modeling…"
+553,Principal Business Intelligence Developer,Epsilon,3.4,N/A,"Provide hands-on implementation and subject-matter expertise around data warehouse, data marts, reporting data and ETL sub systems for the Enterprise Data…"
+554,Cybersecurity Engineer 2,Dexcom,3.3,N/A,Interprets data and draws conclusions regarding results used in presented material.
+555,Commerce Data Analyst,BVAccel,3.3,N/A,Strong data analysis skills using Excel and Google Sheets.
+556,Sr. ETL Developer,"NuVasive, Inc.",3.4,N/A,Implement data virtualization / data integration approaches to help with data discovery/ data prep activities for data scientists and data stewards.
+557,Big Data Software Engineer,HP,4.0,N/A,"Understanding of big data systems along with complex, distributed and massively parallel systems."
+558,Machine Learning Developer,Realty Income Corporation,4.3,N/A,"Understanding of data structures, data modeling and software architecture."
+559,Data Visualization & Research Analyst,Northcentral University,3.2,N/A,"Works closely with researchers and other developers respond to and evaluate ad hoc requests for data, research projects and studies."
+560,Backend Developer | California,Photon,3.3,N/A,§ Experience using big data databases such as Hadoop with Apache Spark.
+561,Senior Big Data Engineer,Lytx,3.7,N/A,"Mentor and coach junior engineers, software developers, and data analysts."
+562,Freelancer Publicist,TOP Agency,N/A,N/A,Target hours to start are 5 to 15 hours per week.
+563,Sr. Data Analyst/Developer,"Tandem Diabetes Care, Inc.",3.6,N/A,Assists with data modeling and data quality assurance.
+564,Support Assistant Genius,Comentum Corp,N/A,N/A,Must be excited to speak with customers - to understand their needs and accurately describe those needs to our developers (extreme accuracy is a must).
+565,Full Stack Software Developer,Chatmeter,3.4,N/A,"Established in 2009, Chatmeter now analyzes billions of customer reviews, social media mentions, and sentiments from hundreds of sources to help businesses keep…"
+566,"Full Stack .NET Desktop Software Developer (C#, WPF, Azure)",Power Line Reporting,N/A,N/A,Most of our products are 'factory' type applications which convert and manipulate data from one format to another.
+567,Senior Business Data Analyst,ResMed,3.8,N/A,"Experience with modern cloud data lakes, data platforms and data warehouse systems."
+568,Software QA Engineer,OmniSync Incorporated,N/A,N/A,"Experience in developing test plans, assessing risk, filing appropriate defects, and providing relevant data for test reporting."
+569,Data Engineer,Guild Mortgage Company LLC,N/A,N/A,"Responsibilities include supporting software developer, database architects, data analysts and data scientists on various data initiatives as well as ensuring…"
+570,SYS ADM 4,UC San Diego,4.2,N/A,"Incumbent will work with critical data systems to lead the effort to deliver a platform for computation, research and data sharing across the organization."
+571,Sr. ETL Developer,"NuVasive, Inc.",3.4,N/A,Implement data virtualization / data integration approaches to help with data discovery/ data prep activities for data scientists and data stewards.
+572,"Data, Analytics & Insights Internship",NP Digital,N/A,N/A,Detecting and debugging data issues to ensure data quality.
+573,"Full Stack .NET Desktop Software Developer (C#, WPF, Azure)",Power Line Reporting,N/A,N/A,Most of our products are 'factory' type applications which convert and manipulate data from one format to another.
+574,Senior Big Data Engineer,Lytx,3.7,N/A,"Mentor and coach junior engineers, software developers, and data analysts."
+575,Machine Learning Developer,Realty Income Corporation,4.3,N/A,"Understanding of data structures, data modeling and software architecture."
+576,Freelancer Publicist,TOP Agency,N/A,N/A,Target hours to start are 5 to 15 hours per week.
+577,Support Assistant Genius,Comentum Corp,N/A,N/A,Must be excited to speak with customers - to understand their needs and accurately describe those needs to our developers (extreme accuracy is a must).
+578,Sr. Data Analyst/Developer,"Tandem Diabetes Care, Inc.",3.6,N/A,Assists with data modeling and data quality assurance.
+579,Senior Business Data Analyst,ResMed,3.8,N/A,"Experience with modern cloud data lakes, data platforms and data warehouse systems."
+580,Data Visualization & Research Analyst,Northcentral University,3.2,N/A,"Works closely with researchers and other developers respond to and evaluate ad hoc requests for data, research projects and studies."
+581,"Hadoop Database Administrator (Big Data, Analytics)",Hewlett-Packard Inc.,4.3,N/A,Ensuring the security of HP data.
+582,Full Stack Software Developer,Chatmeter,3.4,N/A,"Established in 2009, Chatmeter now analyzes billions of customer reviews, social media mentions, and sentiments from hundreds of sources to help businesses keep…"
+583,Big Data Software Engineer,HP,4.0,N/A,"Understanding of big data systems along with complex, distributed and massively parallel systems."
+584,Cyber Fusion Research Support Developer,Deloitte,4.0,N/A,The developer will closely work with the threat intelligence team to assess the needs and any new development projects needed to drive more automation from a…
+585,Data Engineer,Guild Mortgage Company LLC,N/A,N/A,"Responsibilities include supporting software developer, database architects, data analysts and data scientists on various data initiatives as well as ensuring…"
+586,"Hadoop Database Administrator (Big Data, Analytics)",Hewlett-Packard Inc.,4.3,N/A,Ensuring the security of HP data.
+587,Web Developer,1POINT21 Interactive,N/A,N/A,"Creating interactive websites, animations and data visualizations."
+588,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+589,Principal Software Developer -Big Data (San Diego),"TouchCommerce, Inc.",2.9,N/A,"Experience working with high volumes of data, distributed processing and concurrency."
+590,Sr. Visualization Developer,BAE Systems,3.8,N/A,GXP is looking for a senior level visualization developer.
+591,Cyber Fusion Research Support Developer,Deloitte,4.0,N/A,The developer will closely work with the threat intelligence team to assess the needs and any new development projects needed to drive more automation from a…
+592,Sr. Data Quality Engineer,ecoATM Gazelle,3.8,N/A,"5+ years of hands-on data testing experience in big data warehouse environment, dealing with large diverse data sets."
+593,Senior Software Developer - PHP / LARAVEL,Iteris,3.2,N/A,"We collect, aggregate and analyze data on traffic, roads and driver behavior to generate precise informatics that lead to safer transportation and saving lives."
+594,"Program Manager, Small Business Insights",Amazon.com Services LLC,3.5,N/A,Experience managing Redshift data tables.
+595,Senior Software Developer,BHHS California Properties,N/A,N/A,"We are building strategic new business systems critical to the ongoing success of our company in areas such as information retrieval, big data, artificial…"
+596,Software Development Manager,Amazon.com Services LLC,3.5,N/A,"Want to join a team that saves millions of dollars per year for Amazon and uses cutting edge technology, including machine learning and statistical modeling…"
+597,Lead Data Engineer (remote),ThoughtWorks,4.2,N/A,"Working with data excites you: you have created Big data architecture, you can build and operate data pipelines, and maintain data storage, all within…"
+598,Scientific Software Developer,UC San Diego,4.2,N/A,"Proven vision in discovering/defining/publishing new methods to support Bioinformatics data standards, tools, algorithms and/or data structures."
+599,Enterprise West Solutions Architect,Databricks,N/A,N/A,Experience designing and architecting distributed data systems.
+600,Web Developer,1POINT21 Interactive,N/A,N/A,"Creating interactive websites, animations and data visualizations."
+601,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+602,Principal Software Developer -Big Data (San Diego),"TouchCommerce, Inc.",2.9,N/A,"Experience working with high volumes of data, distributed processing and concurrency."
+603,Backend Developer | California,Photon,3.3,N/A,§ Experience using big data databases such as Hadoop with Apache Spark.
+604,Data Engineer,Guild Mortgage Company LLC,N/A,N/A,"Responsibilities include supporting software developer, database architects, data analysts and data scientists on various data initiatives as well as ensuring…"
+605,Scientific Software Developer,UC San Diego,4.2,N/A,"Proven vision in discovering/defining/publishing new methods to support Bioinformatics data standards, tools, algorithms and/or data structures."
+606,"Program Manager, Small Business Insights",Amazon.com Services LLC,3.5,N/A,Experience managing Redshift data tables.
+607,Senior Software Developer - PHP / LARAVEL,Iteris,3.2,N/A,"We collect, aggregate and analyze data on traffic, roads and driver behavior to generate precise informatics that lead to safer transportation and saving lives."
+608,Sr. Visualization Developer,BAE Systems,3.8,N/A,GXP is looking for a senior level visualization developer.
+609,Sr. Data Quality Engineer,ecoATM Gazelle,3.8,N/A,"5+ years of hands-on data testing experience in big data warehouse environment, dealing with large diverse data sets."
+610,Lead Data Engineer (remote),ThoughtWorks,4.2,N/A,"Working with data excites you: you have created Big data architecture, you can build and operate data pipelines, and maintain data storage, all within…"
+611,Enterprise West Solutions Architect,Databricks,N/A,N/A,Experience designing and architecting distributed data systems.
+612,Software Development Manager,Amazon.com Services LLC,3.5,N/A,"Want to join a team that saves millions of dollars per year for Amazon and uses cutting edge technology, including machine learning and statistical modeling…"
+613,Principal Business Intelligence Developer,Epsilon,3.4,N/A,"Provide hands-on implementation and subject-matter expertise around data warehouse, data marts, reporting data and ETL sub systems for the Enterprise Data…"
+614,Cybersecurity Engineer 2,Dexcom,3.3,N/A,Interprets data and draws conclusions regarding results used in presented material.
+615,"Hadoop Database Administrator (Big Data, Analytics)",Hewlett-Packard Inc.,4.3,N/A,Ensuring the security of HP data.
+616,Data Engineer,CyberCoders,3.3,"San Diego, CA 92123","Continue to enhance data systems to efficiently intake, transform, and store massive data sets."
+617,Web Developer,1POINT21 Interactive,N/A,N/A,"Creating interactive websites, animations and data visualizations."
+618,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+619,Principal Software Developer -Big Data (San Diego),"TouchCommerce, Inc.",2.9,N/A,"Experience working with high volumes of data, distributed processing and concurrency."
+620,Sr. Visualization Developer,BAE Systems,3.8,N/A,GXP is looking for a senior level visualization developer.
+621,Cyber Fusion Research Support Developer,Deloitte,4.0,N/A,The developer will closely work with the threat intelligence team to assess the needs and any new development projects needed to drive more automation from a…
+622,Sr. Data Quality Engineer,ecoATM Gazelle,3.8,N/A,"5+ years of hands-on data testing experience in big data warehouse environment, dealing with large diverse data sets."
+623,Senior Software Developer - PHP / LARAVEL,Iteris,3.2,N/A,"We collect, aggregate and analyze data on traffic, roads and driver behavior to generate precise informatics that lead to safer transportation and saving lives."
+624,"Program Manager, Small Business Insights",Amazon.com Services LLC,3.5,N/A,Experience managing Redshift data tables.
+625,Senior Software Developer,BHHS California Properties,N/A,N/A,"We are building strategic new business systems critical to the ongoing success of our company in areas such as information retrieval, big data, artificial…"
+626,Software Development Manager,Amazon.com Services LLC,3.5,N/A,"Want to join a team that saves millions of dollars per year for Amazon and uses cutting edge technology, including machine learning and statistical modeling…"
+627,Lead Data Engineer (remote),ThoughtWorks,4.2,N/A,"Working with data excites you: you have created Big data architecture, you can build and operate data pipelines, and maintain data storage, all within…"
+628,Scientific Software Developer,UC San Diego,4.2,N/A,"Proven vision in discovering/defining/publishing new methods to support Bioinformatics data standards, tools, algorithms and/or data structures."
+629,Enterprise West Solutions Architect,Databricks,N/A,N/A,Experience designing and architecting distributed data systems.
+630,Sr. ETL Developer,"NuVasive, Inc.",3.4,N/A,Implement data virtualization / data integration approaches to help with data discovery/ data prep activities for data scientists and data stewards.
+631,"Data, Analytics & Insights Internship",NP Digital,N/A,N/A,Detecting and debugging data issues to ensure data quality.
+632,"Full Stack .NET Desktop Software Developer (C#, WPF, Azure)",Power Line Reporting,N/A,N/A,Most of our products are 'factory' type applications which convert and manipulate data from one format to another.
+633,Senior Big Data Engineer,Lytx,3.7,N/A,"Mentor and coach junior engineers, software developers, and data analysts."
+634,Machine Learning Developer,Realty Income Corporation,4.3,N/A,"Understanding of data structures, data modeling and software architecture."
+635,Freelancer Publicist,TOP Agency,N/A,N/A,Target hours to start are 5 to 15 hours per week.
+636,Support Assistant Genius,Comentum Corp,N/A,N/A,Must be excited to speak with customers - to understand their needs and accurately describe those needs to our developers (extreme accuracy is a must).
+637,Sr. Data Analyst/Developer,"Tandem Diabetes Care, Inc.",3.6,N/A,Assists with data modeling and data quality assurance.
+638,Senior Business Data Analyst,ResMed,3.8,N/A,"Experience with modern cloud data lakes, data platforms and data warehouse systems."
+639,Data Visualization & Research Analyst,Northcentral University,3.2,N/A,"Works closely with researchers and other developers respond to and evaluate ad hoc requests for data, research projects and studies."
+640,"Hadoop Database Administrator (Big Data, Analytics)",Hewlett-Packard Inc.,4.3,N/A,Ensuring the security of HP data.
+641,Full Stack Software Developer,Chatmeter,3.4,N/A,"Established in 2009, Chatmeter now analyzes billions of customer reviews, social media mentions, and sentiments from hundreds of sources to help businesses keep…"
+642,Big Data Software Engineer,HP,4.0,N/A,"Understanding of big data systems along with complex, distributed and massively parallel systems."
+643,Cyber Fusion Research Support Developer,Deloitte,4.0,N/A,The developer will closely work with the threat intelligence team to assess the needs and any new development projects needed to drive more automation from a…
+644,Web Developer,1POINT21 Interactive,N/A,N/A,"Creating interactive websites, animations and data visualizations."
+645,Data Operations Associate,Everlaw,N/A,N/A,Own the process of uploading client data into our platform and being responsible for data quality and timeliness.
+646,Software/Data Engineer (W2),TargetCW,3.7,"San Francisco, CA (Financial District area)","Experience building aggregates, optimizing data workstreams and maintaining data pipelines."
+647,"Senior Data Analyst, Sales Operations",Github,4.3,N/A,Extensive experience in building high-quality data models and C-level presentations.
+648,Data Scientist - Machine Learning,Plaid,3.8,N/A,Making long-term data science roadmap decisions like how machine learning and data science iteration should be done at Plaid.
+649,"Big Data GTM Specialist, EMR","Amazon Web Services, Inc.",3.5,N/A,Good technical acumen with a foundational understanding of the big data landscape.
+650,Data Engineer,Beshton Software,N/A,N/A,Apply knowledge of statistics and mathematics to software data analysis and provide analytical support on big data projects;
+651,Data Engineer,SoFi,3.2,N/A,In this role you will be contributing to the long-term success of SoFi’s big data vision of establishing a democratized data platform that enables teams to…
+652,"Associate Food Scientist I, Product Development",Voyage Foods,N/A,N/A,"Voyage’s understanding of food architecture (through the use of analytical chemistry, sensory and flavor science, data, and food matrix chemistry) allows us to…"
+653,Customer Success,Synapse Financial Technologies Inc,N/A,N/A,Synapse is a complex API infrastructure with lots of room to customize different experiences for various financial products.
+654,Corporate/Online Events Manager (SF),Sysdig,N/A,N/A,Take a data-driven approach to prove and continually improve ROI.
+655,Cloud Data Warehouse Performance Engineer,CMK Resources,N/A,N/A,Experienced software developer with extensive knowledge of tuning and non-functional testing.
+656,Data Scientist,OneSignal,N/A,N/A,Connect SaaS tool data into a data warehouse.
+657,Scientifc Programmer,"RAPT Therapeutics, Inc.",N/A,N/A,"The candidate will have worked with big data in some format, preferably biological data in an academic or biotech/pharma setting."
+658,Application Developer,The Blue Store,N/A,N/A,Build machine learning and deep learning models to analyze data and draw insight to make the best decisions.
+659,Freelancer Publicist,TOP Agency,N/A,N/A,Target hours to start are 5 to 15 hours per week.
+660,Data Architect,Collective Health,3.8,N/A,Work across data platform and data engineering teams to ensure that our data infrastructure and tooling best meets our overall data strategy.
+661,Engineering Manager - Big Data Infrastructure Team,Roblox,4.3,N/A,"The team provides the infrastructure, core micro-services and self-service tools to empower Roblox employees to collect, store and analyze Platform related data…"
+662,Full Stack Developer,PRICE WATERHOUSE COOPERS,4.0,N/A,"Handle, manipulate and analyse data and information responsibly."
+663,Content Editor,Retool,5.0,N/A,Ability to synthesize data—whether it’s internal product data or large-scale surveys—into large-scale reports that drive revenue impact.
+664,Software Developer (Algorithms),The Blue Store,N/A,N/A,"Keywords: developer, python developer, software engineer, software developer, engineer, automation engineer, trader, full stack, full stack engineer, full stack…"
+665,OBIA Analyst/Developer,Atlantis IT Consulting Group LLC,N/A,N/A,"Candidate should be able to gather, understand the business requirements and translate into data requirements and design the data solutions."
+666,Data Scientist,NextEra Energy,3.9,N/A,"Works with a variety of datasets, including timeseries data and “big data” requiring analysis on distributed computing platforms."
+667,Application Developer,The Blue Store,N/A,N/A,Build machine learning and deep learning models to analyze data and draw insight to make the best decisions.
+668,Backend Developer,Scorp,N/A,N/A,Improving our backend systems to scale as our request and data volumes grow larger and larger.
+669,"Software Engineer, Developer Productivity",Brex,N/A,N/A,Identify and automate repetitive tasks that slow down developers.
+670,"Technical Writer - Developer Docs (San Francisco, Sunnyvale or New York)",Uber,3.7,N/A,You have design and/or data analytics skills.
+671,Senior Data Developer,Ubisoft,3.9,N/A,You are an experienced developer with a proven track record working with big data.
+672,Data Engineer,SoFi,3.2,N/A,In this role you will be contributing to the long-term success of SoFi’s big data vision of establishing a democratized data platform that enables teams to…
+673,Data Engineer,Optiwise,N/A,N/A,"Prior experience in leading a technical team, providing technical direction and mentoring junior data integration developer."
+674,Backend Software Engineer (Python/Django) San Francisco,ixlayer,N/A,N/A,Experience with AWS / Cloud Hosting is a big plus.
+675,Data Engineer,Beshton Software,N/A,N/A,Apply knowledge of statistics and mathematics to software data analysis and provide analytical support on big data projects;
+676,Data Engineer,SoFi,3.2,N/A,In this role you will be contributing to the long-term success of SoFi’s big data vision of establishing a democratized data platform that enables teams to…
+677,Application Developer,The Blue Store,N/A,N/A,Build machine learning and deep learning models to analyze data and draw insight to make the best decisions.
+678,Data Architect,Collective Health,3.8,N/A,Work across data platform and data engineering teams to ensure that our data infrastructure and tooling best meets our overall data strategy.
+679,Senior Software Developer - Rentals,Redfin,3.3,N/A,You will be expected to provide technical mentorship for others and collaborate with product and design teams to create solutions.
+680,Systems Software Developer,Span.IO,N/A,N/A,"Assist with development of reliable data collection, processing, exploration, and presentation for long-term hardware test monitoring and alerts."
+681,"UX Designer, Amazon Chime","Amazon Web Services, Inc.",3.5,N/A,"Experience performing formal user research and acquiring user data (e.g., conducting usability studies, performing user research) and understanding customers is…"
+682,Engineering Manager - Big Data Infrastructure Team,Roblox,4.3,N/A,"The team provides the infrastructure, core micro-services and self-service tools to empower Roblox employees to collect, store and analyze Platform related data…"
+683,OBIA Analyst/Developer,Atlantis IT Consulting Group LLC,N/A,N/A,"Candidate should be able to gather, understand the business requirements and translate into data requirements and design the data solutions."
+684,Data Scientist,NextEra Energy,3.9,N/A,"Works with a variety of datasets, including timeseries data and “big data” requiring analysis on distributed computing platforms."
+685,Full Stack Software Engineer,The Blue Store,N/A,N/A,Work with other developers and business professionals to implement models.
+686,Content Editor,Retool,5.0,N/A,Ability to synthesize data—whether it’s internal product data or large-scale surveys—into large-scale reports that drive revenue impact.
+687,Senior Data Developer,Ubisoft,3.9,N/A,You are an experienced developer with a proven track record working with big data.
+688,Data Engineer,Optiwise,N/A,N/A,"Prior experience in leading a technical team, providing technical direction and mentoring junior data integration developer."
+689,SQL Server/SSIS/BI Developer — Solutions Consultant,DB Best Technologies,N/A,N/A,"Deep understanding of data warehousing concepts including data modeling, referential integrity, ETL, code debugging and optimization."
+690,Data Engineer,Beshton Software,N/A,N/A,Apply knowledge of statistics and mathematics to software data analysis and provide analytical support on big data projects;
+691,Data Operations Associate,Everlaw,N/A,N/A,Own the process of uploading client data into our platform and being responsible for data quality and timeliness.
+692,"UX Designer, Amazon Chime","Amazon Web Services, Inc.",3.5,N/A,"Experience performing formal user research and acquiring user data (e.g., conducting usability studies, performing user research) and understanding customers is…"
+693,Full Stack Developer,The Blue Store,N/A,N/A,"Experience with one or more big data tools and technologies like Snowflake, Databricks, S3, Spark."
+694,"Senior Data Analyst, Sales Operations",Github,4.3,N/A,Extensive experience in building high-quality data models and C-level presentations.
+695,"Associate, Cloud Application Developer",KPMG,4.0,N/A,"From applied AI to optimization to big data platform engineering, your analytical and technical skills will drive real impact in the business world."
+696,Sales Development Representative,Mux,N/A,N/A,"In addition, you will support our sales prospecting efforts to drive outbound opportunities with Account Executives."
+697,Corporate/Online Events Manager (SF),Sysdig,N/A,N/A,Take a data-driven approach to prove and continually improve ROI.
+698,Data Architect,Collective Health,3.8,N/A,Work across data platform and data engineering teams to ensure that our data infrastructure and tooling best meets our overall data strategy.
+699,Engineering Manager - Big Data Infrastructure Team,Roblox,4.3,N/A,"The team provides the infrastructure, core micro-services and self-service tools to empower Roblox employees to collect, store and analyze Platform related data…"
+700,Data Scientist I--- bio/pharma,Park Computer Systems Inc,N/A,N/A,Preferred qualifications: Previous experience with NGS data and SQL.
+701,Full Stack Developer,PRICE WATERHOUSE COOPERS,4.0,N/A,"Handle, manipulate and analyse data and information responsibly."
+702,Content Editor,Retool,5.0,N/A,Ability to synthesize data—whether it’s internal product data or large-scale surveys—into large-scale reports that drive revenue impact.
+703,Data Engineer,0x,N/A,N/A,"Experience analyzing, cleaning data, and preparing reports on blockchain data."
+704,"Senior Software Engineer, Big Data",Conviva,3.7,N/A,Design and implement query execution interfaces surrounding one or several big data storage systems.
+705,Big Data/Spark Developer,Infosys Limited,3.9,"Dallas, TX","Support ETL developers by providing technical assistance, troubleshooting and alternative development solutions."
+706,Jr. Big Data Developer,Enhance IT,3.1,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management."
+707,Data Architect II,GM Financial,3.6,"Arlington, TX 76014 (East area)","Perform a variety of in-depth data analysis, data modeling and data administration tasks on complicated datasets with potentially complex data integration…"
+708,Big Data Developer,State Farm,3.7,N/A,Work with datasets containing mixes of structured and unstructured data.
+709,Big Data Developer,First Soft Solutions [ Direct],N/A,N/A,To be able to work with cloud computing environments Gather and process raw data at scale including writing scripts web scraping calling APIs write SQL queries…
+710,SQL Developer,"MatchSource, LLC",N/A,"Dallas, TX",Knowledge and experience with performance and scalability tuning of big data analytics solutions.
+711,Sr. Big Data Developer,MRoads,3.2,N/A,Excellent systems and data analysis skills.
+712,"Corporate Functions, Information Systems & Technology, Early Career Development Program (ECDP) - Data Engineer for Infrastructure Software Team",Apple,4.2,N/A,"In this role, you'll be helping build big data platform using a combination of integration framework and Big Data processing technologies."
+713,Big Data Engineer,"JPMorgan Chase Bank, N.A.",3.9,N/A,Work with a team of engineers and developers to deliver against the overall technology data strategy.
+714,Software Developer - Big Data,Big Dossier,N/A,N/A,"DevOps mindset, utilizes agile software development practices, data and testing standards, code reviews, source code management, continuous delivery, and…"
+715,ETL Developer (SSIS),"JPMorgan Chase Bank, N.A.",3.9,N/A,"Expertise in data, application and infrastructure architecture disciplines."
+716,Senior Big Data Engineer,TCS,3.8,N/A,Must be able to perform performance optimization of existing data pipelines by identifying bottlenecks and resolving them.
+717,Big Data Developer,Converge Information systems,N/A,N/A,They must have extensive experience in developing data ingestion solutions like ETL/Python/ AWS/ Kafka/ Spark from different data sources.
+718,Entry Level Software Engineer,Toyota Connected North America,N/A,N/A,"Toyota Connected looks for Software Engineers that will solve complex problems and work alongside talented software engineers, data scientists, and designers…"
+719,"Data Architect,BIG DATA HADOOP DEVELOPER",Era,3.5,N/A,Broad knowledge of various big data technologies.
+720,Jr. Big Data Developer,Enhance IT,3.1,United States,"Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management."
+721,Database Developer,W Energy Software,N/A,"Dallas-Fort Worth, TX","You will also provide consultation on data modeling, data integration, data transformation, data analysis, and reporting."
+722,Data Systems DevOps Engineer,Freddie Mac,3.8,"Dallas, TX 75201",Experience in big data systems.
+723,Salesforce Developer,Capital One,3.9,"Plano, TX 75023","You will work with a team of developers with deep experience in machine learning, distributed microservices, and full stack systems."
+724,Data Engineer,Capital One,3.9,"Plano, TX 75023","At least 1 years of experience in big data technologies (Cassandra, Accumulo, HBase, Spark, Hadoop, HDFS, AVRO, MongoDB, or Zookeeper)."
+725,Software Engineering Summer Interns,Toyota Connected North America,N/A,N/A,"Toyota Connected looks for Software Engineering Interns that will solve complex problems and work alongside talented software engineers, data scientists, and…"
+726,Senior Big Data Developer,Data Aixsys,N/A,N/A,Collecting and aggregating large amounts of log data using Apache Flume and staging data in HDFS for further analysis.
+727,ETL Developer (SSIS),"JPMorgan Chase Bank, N.A.",3.9,N/A,"Expertise in data, application and infrastructure architecture disciplines."
+728,Big Data Engineer,"JPMorgan Chase Bank, N.A.",3.9,N/A,Work with a team of engineers and developers to deliver against the overall technology data strategy.
+729,Data Architect/Modeler Developer - Irving TX - VP - R2174466,Citi,3.9,N/A,"Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores is preferable."
+730,"Data Architect,BIG DATA HADOOP DEVELOPER",Era,3.5,N/A,Broad knowledge of various big data technologies.
+731,Application Developer - BIG DATA,InfoQuest Consulting Group Inc.,N/A,N/A,Interact with users to define system requirements and/or necessary modifications.
+732,Big Data Developer with Java,Virtusa,3.7,N/A,Will use AirFlow to automate transition of data & make them available to internal customers.
+733,Data Engineer - Automation and Analytics,Techorbit Inc.,N/A,N/A,"Create and review technical and user-focused documentation for data solutions (data models, data dictionaries, business glossaries, process and data flows,…"
+734,Application Developer - Cloud - Entry Level,Atos,3.5,N/A,"Ability to analyze, map, transform, and transfer data between varieties of data formats."
+735,Data Architect II,GM Financial,3.6,"Arlington, TX 76014 (East area)","Perform a variety of in-depth data analysis, data modeling and data administration tasks on complicated datasets with potentially complex data integration…"
+736,Big Data/Spark Developer,Infosys Limited,3.9,"Dallas, TX","Support ETL developers by providing technical assistance, troubleshooting and alternative development solutions."
+737,Big Data Developer,Imagination Software Technologies,N/A,N/A,Experience building data warehouse applications.
+738,Analytics Developer Associate Business Intelligence,UCHealth,3.7,N/A,Designs basic data queries based on customer inquiries/needs.
+739,Sr. Assessment Developer-Data Science,"Alteryx, Inc.",4.0,N/A,Responsible for delivering a variety of programs and services to customers ranging from feature demonstrations to full feature deployments.
+740,Data Analyst and ETL Developer,Noodles & Company,3.5,N/A,"The developer contributes to data warehouse architecture and data quality activities – all built on the Microsoft BI stack which includes SSIS, SSAS (tabular),…"
+741,Recruiter,Contentful,5.0,N/A,"It lets developers and content creators work in parallel, increasing team efficiency and happiness."
+742,Epic Analytics Developer Sr Revenue Cycle,UCHealth,3.7,N/A,"Extracts, validates and analyzes desired data."
+743,Engineer II - Software Data,Ball Aerospace,3.8,N/A,Be a member of a dynamic data analytics team; a team tasked with being a champion for data-driven decisions throughout the enterprise while advancing Ball…
+744,Digital Producer,Blue Moon Digital,N/A,N/A,"Collaborate with a team of developers, designers, and strategists to ensure that the final product is consistent with the client's vision."
+745,Software Developer (Early-Career),BOEING,4.0,N/A,"Interfaces and data integration, XML, XSD."
+746,Analytics Developer,UCHealth,3.7,N/A,"Extracts, validates and analyzes desired data."
+747,Closing Associate - Commercial,Land Title Guarantee Co.,3.6,N/A,"Proof recording documents for typographical errors, signatures, notaries, and/or recognize omission of data; record documents with appropriate state/county…"
+748,Closing Assistant - Commercial,Land Title Guarantee Co.,3.6,N/A,"Proof recording documents for typographical errors, signatures, notary, and/or recognize omission of data; record documents with appropriate state/county agency…"
+749,Data Architect – AWS (ENG401),Time2Market,2.7,N/A,Minimum five years hands-on experience in a data analytics field.
+750,Senior Backend Developer and Data Architect,National Renewable Energy Laboratory,3.8,N/A,Experience architecting big data solutions which involve multiple capabilities that bridge data platforms of unstructured and semi-structured data with…
+751,Data Analyst ETL Engineer,Charles Schwab Inc.,4.0,N/A,"Providing production support for data issues, including data fixes across platforms."
