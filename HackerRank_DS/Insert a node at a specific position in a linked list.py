@@ -65,14 +65,14 @@ def insertNodeAtPosition(llist, data, position):
     
     current = llist
     if position == 0:
-        return Node(data, llist)
+        return Node(data, current)
     
     while position > 1:
-        llist = llist.next
+        current = current.next
         position -= 1
-    llist.next = Node(data, llist.next)
+    current.next = Node(data, current.next)
 
-    return current
+    return llist
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
