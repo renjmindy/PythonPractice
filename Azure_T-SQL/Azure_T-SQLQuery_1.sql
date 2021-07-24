@@ -1,0 +1,43 @@
+-- Challenge 3: Retrieve customer contact details
+-- (1) Retrieve customer contact names with middle names if known
+-- (2) Retrieve primary contact details
+-- (3) Retrieve shipping status
+-- SELECT *
+-- SELECT CASE 
+--           WHEN MiddleName IS NULL THEN FirstName + ' ' + LastName
+--           ELSE FirstName + ' ' + MiddleName + ' ' + LastName
+--        END AS CustomerName
+-- SELECT FirstName + ' ' + ISNULL(MiddleName + ' ', '') + LastName AS CustomerName
+-- SELECT CustomerID, 
+--       CASE 
+--           WHEN EmailAddress IS NOT NULL THEN EmailAddress
+--           ELSE Phone
+--       END AS PrimaryContact
+-- SELECT CustomerID, COALESCE(EmailAddress, Phone) AS PrimaryContact 
+-- FROM SalesLT.Customer
+-- SELECT SalesOrderID, CONVERT(NVARCHAR(50), OrderDate, 102) AS OrderDate,
+--       CASE
+--           WHEN ShipDate IS NOT NULL THEN 'Shipped'
+--           ELSE 'Awaiting Shipment'
+--       END AS ShippingStatus
+-- FROM SalesLT.SalesOrderHeader
+
+-- Challenge 2: Retrieve customer order data
+-- (1) Retrieve a list of customer companies (see Challenge 1)
+-- (2) Retrieve a list of sales order revisions
+-- SELECT *
+-- SELECT SalesOrderNumber + ' (' + ISNULL(TRY_CAST(RevisionNumber AS NVARCHAR(10)), '0') + ')' AS OrderRevision,
+--       CONVERT(NVARCHAR(50), OrderDate, 102) AS OrderDate  
+-- SELECT SalesOrderNumber + ' (' + ISNULL(STR(RevisionNumber, 1), '0') + ')' AS OrderRevision,
+--       CONVERT(NVARCHAR(50), OrderDate, 102) AS OrderDate     
+-- FROM SalesLT.SalesOrderHeader
+
+-- Challenge 1: Retrieve customer data
+-- (1) Retrieve customer details
+-- (2) Retrieve customer name data
+-- (3) Retrieve customer names and phone numbers
+-- SELECT *
+-- SELECT Title, FirstName, MiddleName, LastName, Suffix
+-- SELECT SalesPerson, Title + ' ' + LastName AS CustomerName, Phone
+-- SELECT TRY_CAST(CustomerID AS NVARCHAR(10)) + ': ' + CompanyName AS CustomerCompany
+-- FROM SalesLT.Customer
