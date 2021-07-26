@@ -1,0 +1,25 @@
+-- Challenge 2: Retrieve product data
+-- (1) Retrieve product details for product model 1
+-- (2) Filter products by color and size
+-- (3) Filter products by product number
+-- (4) Retrieve specific products by product number
+-- SELECT *
+-- SELECT Name AS ProductName, Color, Size
+-- SELECT ProductNumber, Name AS ProductName
+-- SELECT ProductNumber, Name AS ProductName, ListPrice
+-- FROM SalesLT.Product
+-- WHERE ProductModelID = 1
+-- WHERE Color IN ('black', 'red', 'white') AND Size IN ('S', 'M')
+-- WHERE ProductNumber LIKE 'BK-%'
+-- WHERE ProductNumber LIKE 'BK-[^R]%-[0-9][0-9]'
+
+-- Challenge 1: Retrieve data for transportation reports
+-- (1) Retrieve a list of cities
+-- (2) Retrieve the heaviest products
+-- SELECT *
+-- SELECT DISTINCT City, StateProvince
+-- FROM SalesLT.Address
+-- ORDER BY City ASC
+-- SELECT Top (10) PERCENT WITH TIES Name AS ProductName, Weight
+-- FROM SalesLT.Product
+-- ORDER BY Weight DESC
