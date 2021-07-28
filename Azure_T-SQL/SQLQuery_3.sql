@@ -1,0 +1,57 @@
+-- Challenge 3: Create a product catalog
+-- (1) Retrieve product information by category
+-- SELECT *
+-- FROM SalesLT.ProductCategory
+-- SELECT p.Name AS ParentCatogory, s.NAME AS SubCatgory, p.Name AS ProductName
+-- FROM SalesLT.ProductCategory AS p
+-- JOIN SalesLT.ProductCategory AS s
+-- ON p.ProductCategoryID = s.ParentProductCategoryID
+-- JOIN SalesLT.Product AS pd
+-- ON s.ProductCategoryID = pd.ProductCategoryID
+-- ORDER BY ParentCatogory, SubCatgory, ProductName
+
+-- Challenge 2: Retrieve customer data
+-- (1) Retrieve a list of all customers and their orders
+-- (2) Retrieve a list of customers with no address
+-- SELECT *
+-- FROM SalesLT.Customer 
+-- FROM SalesLT.SalesOrderHeader
+-- SELECT c.CustomerID, c.CompanyName, c.FirstName + ' ' + ISNULL(c.MiddleName + ' ', '') + c.LastName AS CustomerContact,
+--       c.Phone
+-- FROM SalesLT.Customer AS c
+-- LEFT JOIN SalesLT.CustomerAddress AS ca
+-- ON c.CustomerID = ca.CustomerID
+-- WHERE ca.AddressID IS NULL 
+-- SELECT c.CompanyName, c.FirstName + ' ' + ISNULL(c.MiddleName + ' ', '') + c.LastName AS CustomerContact,
+--       s.SalesOrderID, s.TotalDue
+-- FROM SalesLT.Customer AS c
+-- LEFT JOIN SalesLT.SalesOrderHeader AS s
+-- ON c.CustomerID = s.CustomerID
+-- ORDER BY s.SalesOrderID DESC, s.TotalDue DESC
+
+-- Challenge 1: Generate invoice reports
+-- (1) Retrieve customer orders
+-- (2) Retrieve customer orders with addresses
+-- SELECT *
+-- FROM SalesLT.Address   
+-- FROM SalesLT.CustomerAddress 
+-- SELECT c.CompanyName, a.AddressLine1 + ' ' + ISNULL(a.AddressLine2 + ' ', '') +
+--        a.City + ' ' + a.StateProvince + ' ' + a.CountryRegion + ' ' + a.PostalCode AS CustomerAddress,
+--       s.SalesOrderID, s.TotalDue
+-- FROM SalesLT.Customer AS c
+-- JOIN SalesLT.SalesOrderHeader AS s
+-- ON c.CustomerID = s.CustomerID
+-- JOIN SalesLT.CustomerAddress AS ca
+-- ON s.CustomerID = ca.CustomerID  
+-- JOIN SalesLT.Address AS a
+-- ON a.AddressID = ca.AddressID
+-- WHERE ca.AddressType = 'Main Office' 
+-- SELECT *
+-- FROM SalesLT.Customer
+-- FROM SalesLT.SalesOrderHeader
+-- SELECT c.CompanyName, s.SalesOrderID, s.TotalDue 
+-- FROM SalesLT.Customer AS c
+-- JOIN SalesLT.SalesOrderHeader AS s
+-- ON c.CustomerID = s.CustomerID
+
+
