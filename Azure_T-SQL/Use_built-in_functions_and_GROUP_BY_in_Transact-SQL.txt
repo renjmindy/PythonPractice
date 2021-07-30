@@ -1,0 +1,40 @@
+-- Challenge 2: Aggregate product sales
+-- (1) Retrieve total sales by product.
+-- (2) Filter the product sales list to include only products that cost over 1,000.
+-- (3) Filter the product sales groups to include only total sales over 20,000
+-- SELECT *
+-- SELECT p.Name, SUM(s.LineTotal) AS TotalRevenue 
+-- FROM SalesLT.Product AS p
+-- JOIN SalesLT.SalesOrderDetail AS s
+-- ON p.ProductID = s.ProductID
+-- FROM SalesLT.SalesOrderDetail AS s
+-- GROUP BY p.Name
+-- HAVING SUM(s.LineTotal) > 20000
+-- ORDER BY TotalRevenue DESC
+-- SELECT p.Name, SUM(s.LineTotal) AS TotalRevenue 
+-- FROM SalesLT.Product AS p
+-- JOIN SalesLT.SalesOrderDetail AS s
+-- ON p.ProductID = s.ProductID
+-- FROM SalesLT.SalesOrderDetail AS s
+-- WHERE p.ListPrice > 1000
+-- GROUP BY p.Name
+-- ORDER BY TotalRevenue DESC
+-- SELECT p.Name, SUM(s.LineTotal) AS TotalRevenue 
+-- FROM SalesLT.Product AS p
+-- JOIN SalesLT.SalesOrderDetail AS s
+-- ON p.ProductID = s.ProductID
+-- FROM SalesLT.SalesOrderDetail AS s
+-- GROUP BY p.Name
+-- ORDER BY TotalRevenue DESC
+
+-- Challenge 1: Retrieve order shipping information
+-- (1) Retrieve the order ID and freight cost of each order.
+-- (2) Add the shipping method.
+-- (3) Add shipping date details.
+-- SELECT *
+-- SELECT SalesOrderID, ROUND(Freight, 2) AS FreightCost
+-- SELECT SalesOrderID, ROUND(Freight, 2) AS FreightCost, LOWER(ShipMethod) AS ShippingMethod
+-- SELECT SalesOrderID, ROUND(Freight, 2) AS FreightCost, LOWER(ShipMethod) AS ShippingMethod,
+--        YEAR(ShipDate) AS ShipYear, DATENAME(mm, ShipDate) AS ShipMonth, DAY(ShipDate) AS ShipDate,
+--        DATENAME(dw, ShipDate) AS ShipDayOfWeek
+-- FROM SalesLT.SalesOrderHeader
