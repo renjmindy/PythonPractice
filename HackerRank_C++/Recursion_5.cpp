@@ -11,7 +11,7 @@ int GetMax(vector<int>& a) {
   }
   else {
     vector<int> b(a.begin()+1, a.end());
-    return max(a.at(0), max(b.at(0), GetMax(b)));
+    return max(a.at(0), GetMax(b));
   }
 }
 
