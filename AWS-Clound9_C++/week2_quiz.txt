@@ -19,11 +19,11 @@ The stack begins at a high memory address and works its way down, whereas the he
 Question 3
 Suppose we are writing the following function that is intended to return a pointer to a location in memory holding an integer value initialized to zero. 
 
-`int *allocate_an_integer() {
-`    // declare variable i here
-`    *i = 0;
-`    return i;
-`}
+int *allocate_an_integer() {
+    // declare variable i here
+    *i = 0;
+    return i;
+}
 
 How should variable i be declared?
 
@@ -39,3 +39,116 @@ int j; int *i = &j;
 
 Correct
 The variable i should be a pointer to a memory location to an integer allocated from the heap so the memory location continues to be allocated after the function has returned.
+
+5.
+Question 5
+Suppose we declare a variable as “int i;” Which of the following expressions returns the address of the memory location containing the contents of variable i?
+
+1 / 1 point
+
+i->addr
+
+*i
+
+i.addr
+
+&i
+
+Correct
+The & operator returns the address of its operand.
+
+6.
+Question 6
+
+int i = 0;
+int *j = &i;
+
+How many memory allocations are made on the stack and on the heap for the above code? For example, declaring an integer would count as one memory allocation.
+
+1 / 1 point
+
+One allocation on the stack and one allocation on the heap.
+
+Zero allocations on the stack and two allocations on the heap.
+
+One allocation on the stack and zero allocations on the heap.
+
+Two allocations on the stack and zero allocations on the heap.
+
+Zero allocations on the stack and one allocation on the heap.
+
+Correct
+Two allocations are made, with both to the stack: one for the integer i and one for the memory address that is the value of pointer j.
+
+7.
+Question 7
+
+int *i = new int;
+
+How many memory allocations are made on the stack and on the heap for the above code? For example, allocating space for one integer would count as one memory allocation.
+
+1 / 1 point
+
+One allocation on the stack and one allocation on the heap.
+
+Zero allocations on the stack and two allocations on the heap.
+
+Zero allocations on the stack and one allocation on the heap.
+
+Two allocations on the stack and zero allocations on the heap.
+
+One allocation on the stack and zero allocations on the heap.
+
+Correct
+The use of the new operator allocates memory on the heap that persists until it is deallocated by the delete operator, instead of on the stack which is deallocated when the current function returns.
+
+8.
+Question 8
+
+int *i = new int;
+*i = 0;
+int &j = *i;
+j++;
+
+What does the last line of the above code segment do?
+
+1 / 1 point
+
+Increments the address pointed to by variable i by one.
+
+Increments the value pointed to by variable i by one.
+
+Causes an error.
+
+Increments the value of j by one, where the value of j is a local copy stored on the stack of the value of i stored on the heap.
+
+Correct
+Yes, j is a direct reference to the same actual integer that i points to indirectly.
+
+10.
+Question 10
+
+class Pair {
+    public: double a,b;
+};
+
+int main() {
+    Pair *p = new Pair;
+    p->a = 0.0;
+    return 0;
+}
+
+The expression p->a is equivalent to which one of the following?
+
+1 / 1 point
+
+(*p).a
+
+p.a
+
+p.*a
+
+*(p.a)
+
+Correct
+The arrow operator -> accesses the right operand member in the class at the memory address of its left operand.
