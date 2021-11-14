@@ -1,0 +1,41 @@
+2.
+Question 2
+Which one of the following is true?
+
+1 / 1 point
+
+The address of any memory location in the stack is larger than the address of any memory location in the heap.
+
+The C++ statement “int i;” allocates memory for one integer on the heap.
+
+The "new" operator allocates memory on the stack that gets removed from the stack by the "delete"operator.
+
+You should avoid using the memory address 0x0 for pointers whose value is not yet set, because memory location 0x0 is a valid location for the system to allocate to hold the contents of a variable.
+
+Correct
+The stack begins at a high memory address and works its way down, whereas the heap begins at a low memory address and works its way up.
+
+3.
+Question 3
+Suppose we are writing the following function that is intended to return a pointer to a location in memory holding an integer value initialized to zero. 
+
+`int *allocate_an_integer() {
+`    // declare variable i here
+`    *i = 0;
+`    return i;
+`}
+
+How should variable i be declared?
+
+1 / 1 point
+
+int i;
+
+int *i;
+
+int *i = new int;
+
+int j; int *i = &j;
+
+Correct
+The variable i should be a pointer to a memory location to an integer allocated from the heap so the memory location continues to be allocated after the function has returned.
