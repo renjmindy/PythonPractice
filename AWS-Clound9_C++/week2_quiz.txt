@@ -1,3 +1,26 @@
+1.
+Question 1
+Recall that every variable in C++ has these four things: a name, a type, a value and a memory location.
+
+int *p;
+p = new int;
+*p = 0;
+
+For the code above, which one of the following is NOT true for variable p?
+
+1 / 1 point
+
+The name of the variable is "p"
+
+The type of the variable is a pointer to an integer, specifically the type "int *"
+
+The value of the variable is 0
+
+The memory address of the variable is the value returned by the expression &p
+
+Correct
+Even though p points to a memory address containing the integer value 0, the value of the pointer is the memory address itself.
+
 2.
 Question 2
 Which one of the following is true?
