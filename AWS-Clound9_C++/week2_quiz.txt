@@ -40,6 +40,36 @@ int j; int *i = &j;
 Correct
 The variable i should be a pointer to a memory location to an integer allocated from the heap so the memory location continues to be allocated after the function has returned.
 
+4.
+Question 4
+Suppose we have this alternative function that returns a pointer to a memory location to an integer value of zero. 
+
+int *allocate_an_integer() {
+    int i = 0;
+    return &i;
+}
+
+int main() {
+    int *j;
+    j = allocate_an_integer();
+    int k = *j;
+    return 0;
+
+What value is variable k assigned and why?
+
+1 / 1 point
+
+Variable k is not assigned a value, because even if the compiler is set to ignore warnings and continue with compilation, the compiled program will still automatically detect that a local variable’s address is being used after the function has returned, and exit to the operating system with a non-zero error code.
+
+Unknown. Depending on the compiler settings, the compiler may report that a local variable address is being returned, which could be treated as a warning or as a compilation error; Or, if the program is allowed to compile, then at runtime the variable k could be assigned zero, or some other value, or the program may terminate due to a memory fault.
+
+Assuming that the program compiles with just a warning and not an error due to the settings, the variable k will not be assigned a value, because the running program will crash the whole operating system.
+
+Variable k is certainly assigned the value zero, because the C++ runtime will automatically move the local variable to the heap and return the address of that heap variable instead.
+
+Correct
+Correct. Variable i is allocated with a memory location on the stack. When allocate_an_integer() returns, its memory on the stack including the memory holding the value of i is freed and may be used for other purposes, and may be overwritten with a new value.
+
 5.
 Question 5
 Suppose we declare a variable as “int i;” Which of the following expressions returns the address of the memory location containing the contents of variable i?
