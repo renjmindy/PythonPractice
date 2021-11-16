@@ -15,6 +15,38 @@ When declaring a constructor for a class, the return type of the constructor mus
 Correct
 A constructor cannot be assigned a name other than that of the class itself.
 
+2.
+Question 2
+Which of the following examples does NOT call a copy constructor at least once?
+
+(If you already have advanced knowledge of C++ that makes this seem like a trick question, then we'll also specify this: Assume that compiler optimizations are mostly disabled.)
+
+1 / 1 point
+
+Cube b(10);
+Cube a = b;
+
+// Function prototype for "contains":
+int contains(Cube outer, Cube inner);
+// ...
+Cube a(10),b(5);
+int a_bounds_b = contains(a,b);
+
+// Function prototype for "intersect":
+Cube intersect(Cube &left, Cube &right);
+// ...
+Cube a(10),b(5);
+Cube c;
+c = intersect(a,b);
+
+Cube a,b(10);
+a = b;
+
+Correct
+Correct: The copy constructor will not be called.
+
+In this case, the assignment operator is called (either the default assignment operator or one that has been explicitly declared). Since the operand of the assignment operator is passed by reference and not by value, the copy constructor is not called because no new object needs to be constructed.
+
 3.
 Question 3
 Recall that a custom assignment operator can be declared such that line 2 of the code below executes a user-defined function to perform the assignment.
@@ -36,6 +68,78 @@ The custom assignment operator is a public member function of the class.
 
 Correct
 Indeed, the assignment operator is a member function of the class of the target object, and this member function must be public in order for the assignment operator to be used in contexts outside of the class's own implementation as shown in the example in this question.
+
+4.
+Question 4
+Consider the following class:
+
+class Orange {
+  public:
+    Orange(double weight);
+    ~Orange();
+    double getWeight();
+  
+  private:
+    double weight_;
+};
+
+Select all functions that are present in this class (including any automatic/implicit functions added by the compiler):
+
+1 / 1 point
+
+Default constructor
+
+At least one custom, non-default constructor
+
+Correct
+
+Copy constructor
+
+Correct
+
+Assignment operator
+
+Correct
+
+Destructor
+
+Correct
+
+5.
+Question 5
+Consider the following class:
+
+class Blue {
+  public:
+    double getValue();
+    void setValue(double value);
+
+  private:
+    double value_;
+};
+
+ 
+Select all functions that are present in this class (including any automatic/implicit functions added by the compiler):
+
+1 / 1 point
+
+Default constructor
+
+Correct
+
+At least one custom, non-default constructor
+
+Copy constructor
+
+Correct
+
+Assignment operator
+
+Correct
+
+Destructor
+
+Correct
 
 6.
 Question 6
