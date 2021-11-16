@@ -185,6 +185,32 @@ Just the member variables a,b of Pair.
 Correct
 Even though Pair is indicated as a public base class, the derived class equalPair does not have access to the private members of Pair.
 
+9.
+Question 9
+
+class Just_a_double {
+public:
+    double a;
+
+    Just_a_double(double x) : a(x) { }
+    Just_a_double() : Just_a_double(0) { }
+}
+
+Which constructors, if any, compile properly?
+
+1 / 1 point
+
+Both constructors on lines 5 and 6 compile properly
+
+Both constructors on lines 5 and 6 result in compiler errors.
+
+The constructor on line 5 compiles properly, but the constructor on line 6 results in a compiler error.
+
+The constructor on line 5 results in a compiler error but the constructor on line 6 compiles properly, 
+
+Correct
+The initializer lists allow both member variable constructors as well as other declarations of the class constructor.
+
 10.
 Question 10
 
