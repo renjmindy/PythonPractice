@@ -11,8 +11,8 @@ A destructor ~Pair() that de-allocates all of the the heap memory that had previ
 The types of these member functions have already been declared in the declaration of Pair. Now you need to provide the implementation of each of these three member functions.
 (Note: The function declarations shown in the code comment below do not include parameter names for the arguments. They show only the types of the arguments. This is allowed for a declaration, but when you define the implementation of those functions, you should give names to the parameters so that you can refer to them.)
 
-/* Class Pair has already been declared
- * as shown in the following comments:
+/** Class Pair has already been declared
+ *  as shown in the following comments:
 class Pair {
   public:
     int *pa, *pb;
