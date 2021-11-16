@@ -30,12 +30,17 @@ class Pair {
  */
  
 Pair::Pair(int a, int b) {
-  int *pa = new int(a);
-  int *pb = new int(b);
+  pa = new int;
+  pb = new int;
+  *pa = a;
+  *pb = b;
 }
 
 Pair::Pair(const Pair& other) {
-  
+  pa = new int;
+  pb = new int;
+  *pa = *other.pa;
+  *pb = *other.pb; 
 }
 
 Pair::~Pair() {
