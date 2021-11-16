@@ -17,3 +17,50 @@ The types of these member functions have already been declared in the declaratio
 (Note: The function declarations shown in the code comment below do not include parameter names for the arguments. They show only the types of the arguments. This is allowed for a declaration, but when you define the implementation of those functions, you should give names to the parameters so that you can refer to them.)
 
 
+/* Class Pair has already been declared
+ * as shown in the following comments:
+class Pair {
+  public:
+    int *pa, *pb;
+    Pair(int a, int b);
+    Pair(const Pair& other);
+   ~Pair();
+};
+ * Implement its member functions below.
+ */
+ 
+Pair::Pair(int a, int b) {
+  int *pa = new int(a);
+  int *pb = new int(b);
+}
+
+Pair::Pair(const Pair& other) {
+  
+}
+
+Pair::~Pair() {
+  delete pa;
+  pa = nullptr;
+  delete pb;
+  pb = nullptr;
+}
+
+/* Here is a main() function you can use
+  * to check your implementation of the
+  * class Pair member functions.
+  */
+  
+int main() {
+  std::cout << "come here" << std::endl;
+  Pair p(15, 16);
+  std::cout << "come here again" << std::endl;
+  Pair q(p);
+  std::cout << "come here again again" << std::endl;
+  Pair *hp = new Pair(23, 42);
+  delete hp;
+  
+  std::cout << "If this message is printed,"
+    << " at least the program hasn't crashed yet!\n"
+    << "But you may want to print other diagnostic messages too." << std::endl;
+  return 0;
+}
