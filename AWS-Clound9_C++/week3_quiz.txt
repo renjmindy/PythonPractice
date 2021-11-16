@@ -59,7 +59,6 @@ class Animal {
     
 How many  explicit (non-automatic)  constructors are present in the class?
 
-
 1 / 1 point
 
 2
@@ -75,3 +74,128 @@ How many  explicit (non-automatic)  constructors are present in the class?
 7
 
 Correct
+
+7.
+Question 7
+
+When you use the new operator to create a class object instance in heap memory, the new operator makes sure that memory is allocated in the heap for the object, and then it initializes the object instance by automatically calling the class constructor.
+
+After a class object instance has been created in heap memory with new, when is the destructor usually called?
+
+1 / 1 point
+
+The destructor is called automatically when the delete operator is used with a pointer to the instance of the class.
+
+The destructor is called automatically when the variable goes out of scope.
+
+The programmer always needs to call the destructor manually in order to free up memory.
+
+The destructor is called automatically when the program returns from the function where the new operator was used to create the class object instance.
+
+Correct
+
+8.
+Question 8
+Consider the following program:
+
+double magic(uiuc::Cube cube) {
+  cube.setLength(1);
+  return cube.getVolume();
+}
+
+int main() {
+  uiuc::Cube c(10);
+  magic(c);
+  return 0;
+}
+
+How many times is the  uiuc::Cube 's copy constructor invoked?
+
+1 / 1 point
+
+Never
+
+Once
+
+Twice
+
+Three times
+
+Correct
+
+9.
+Question 9
+We have looked at examples where the assignment operator returned the value "*this". The variable "this" is available by default in most class member functions. What is the value of this built-in class variable "this"?
+
+1 / 1 point
+
+A pointer to the current object instance.
+
+A reference to the current object.
+
+An alias of the current object.
+
+A pointer to a heap-memory copy of the current object.
+
+Correct
+This is correst. In fact, members of the current object can be accessed as "this->membername" . For example, if you define a member function whose argument is the same name as a member variable, any use of that name in the local scope of the function refers to the argument and not the member variable, but you can still access the member variable as "this->membername" . Hence the following example works.
+
+class Just_a_double {
+    double val;
+public:
+    void setValue(double val) {
+        this->val = val;
+    }
+}
+
+10.
+Question 10
+
+Consider the code below that includes a class that has a custom constructor and destructor and both utilize a global variable (which has global scope and can be accessed anywhere and initialized before the function main is executed).
+
+int reference_count = 0;
+
+class Track {
+public:
+    Track() { reference_count++; }
+    ~Track() { reference_count--; }
+};
+
+Which one of the following procedures (void functions) properly ensures the deallocation of all the memory allocated for objects of type Track so the memory can be re-used for something else after the procedure returns?
+
+For the correct answer, the variable reference_count should be zero after all calls to track_stuff() and all of the memory should be deallocated properly. This will dependably occur after only one of the following procedures.
+
+void track_stuff() {
+    Track t;
+    Track *p = &t;
+    // ...
+    delete p;
+    return;
+}
+
+void track_stuff() {
+    Track t;
+    Track *p = &t;
+    // ...
+    delete p;
+    return;
+}
+
+void track_stuff() {
+    Track t;
+    Track *p = &t;
+    // ...
+    delete p;
+    return;
+}
+
+void track_stuff() {
+    Track t;
+    Track *p = &t;
+    // ...
+    delete p;
+    return;
+}
+
+Correct
+This procedure declares t as an object of class Track with its memory allocated on the stack at local scope. The object t will automatically be destroyed and the memory will be deallocated when the function returns. This example also allocates memory for another Track on the heap using new and stores that address in the pointer to Track, p. The object p is destroyed and its memory is deallocated when the delete operator is used.
