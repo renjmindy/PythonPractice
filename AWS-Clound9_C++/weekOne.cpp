@@ -9,14 +9,11 @@
 
 class Pair {
   public:
-
     int sum() {
       return a + b;
     }
-
     int a;
     int b;
-
 };
 
 // This main() function will help you test your work.
