@@ -1,0 +1,201 @@
+1.
+Question 1
+
+Which one of the following is NOT true?
+
+1 / 1 point
+
+C++ allows a variable to be declared in a user-defined function with an unknown type that can be defined when the function is called.
+
+C++ allows a member variable to be declared in a user-defined class with an unknown type that can by defined when an object of that class is created.
+
+C++ allows a variable to be declared in a user-defined member function of a user-defined class that can be defined when the function is called.
+
+C++ allows a local variable to be declared in main() with an unknown type that can be defined when the program is executed.
+
+Correct
+Even though C++ allows functions and classes to use templated types that are defined when the function is called or an object of that class is created, every variable must have a type known at compile time.
+
+2.
+Question 2
+
+Suppose you want to create a vector of integers. Which of the following creates an instance of the std::vector class that can contain integers?
+
+1 / 1 point
+
+int<std::vector> v;
+
+int *v;
+
+int v[256];
+
+std::vector<int> v;
+
+Correct
+This correctly creates a std::vector using "int" as the template type of the elements of the vector.
+
+3.
+Question 3
+
+Which of the following will generate an error at compile time?
+
+1 / 1 point
+
+std::vector<double> v;
+
+std::vector v;
+
+std::vector<char[256]> v;
+
+std::vector<std::vector<int>> v;
+
+Correct
+This will generate a compile-time error because the compiler does not know what type should be used for the elements of the std::vector, and every variable (including v) has to have a type at compile time. You have to supply a type as the template parameter for the elements of the std::vector.
+
+4.
+Question 4
+
+template <typename Type>
+Type max(Type a, Type b) {
+    return (a > b) ? a : b;
+}
+Which one of the following exampled is a proper way to call the max function declared above in template form?
+
+1 / 1 point
+
+max(5.0,10.0)
+
+max<double>(5.0,10.0)
+
+max<Type = double>(5.0,10.0)
+
+<Type = double>max(5.0,10.0)
+
+Correct
+Whereas a class needs to explicitly identify the type, a templated function does not need to explicitly identify the type(s) used if the type of its arguments can be sufficiently matched to the templated types used in the function declaration.
+
+5.
+Question 5
+
+template <typename Type>
+Type max(Type a, Type b) {
+    return (a > b) ? a : b;
+}
+
+class Just_a_double {
+public:
+    double num;
+};
+
+Given the above code, which one of the expressions below, if used at line 15,  will compile and not generate a compile error?
+
+1 / 1 point
+
+max(a,b)
+
+max(a,10.0)
+
+max(a.num,b.num)
+
+max("five",10.0)
+
+Correct
+Both arguments to max() are the same type and both can be compared using the greater-than operator.
+
+6.
+Question 6
+
+Which one of the following properly declares the class RubikCube derived from the base class Cube?
+
+1 / 1 point
+
+class Cube : public RubikCube {...};
+
+class RubikCube(Cube) {...};
+
+class Cube(RubikCube) {...};
+
+class RubikCube : public Cube {...};
+
+Correct
+This correctly derives RubikCube as a specialization of base class Cube.
+
+7.
+Question 7
+
+class Pair {
+public:
+    double a,b;
+    Pair(double x, double y) { a = x; b = y; }
+};
+
+If a class equalPair is derived from the above base class (but specializes it by adding a single boolean "isequal" member variable) then which one of the options below is a proper declaration of a constructor for equalPair?
+
+(As a side note: Although the member variables are of type double, for the sake of this question, we are not concerned about making approximate comparisons of floating-point types, only exact comparisons. Usually, in practical usage, when you compare floating-point values, you should write a function for approximate comparison. That is, you should allow numbers to be considered equal if they have a very small absolute difference, even if they are not exactly the same.)
+
+1 / 1 point
+
+equalPair(double a, double b) {
+    this->Pair(a,b);
+    isequal = (a == b);
+}
+
+equalPair(double a, double b) {
+    Pair(a,b);
+    isequal = (a == b);
+}
+
+equalPair(double a, double b) {
+    isequal = (a == b);
+}
+
+equalPair(double a, double b) : Pair(a,b) {
+    isequal = (a == b);
+}
+
+Correct
+Correct. The class Pair does not have a default constructor so it needs to be explicitly constructed using Pair(a,b).
+
+8.
+Question 8
+
+class Pair {
+private:
+    double a,b;
+};
+
+class equalPair : public Pair {
+private:
+    bool isequal;
+public:
+    int status();
+
+When the function status() is implemented, which variables will it have access to?
+
+1 / 1 point
+
+Just the member variable isequal of equalPair.
+
+No member variables of either equalPair or Pair.
+
+Both the member variables a,b or Pair and isequal of equalPair.
+
+Just the member variables a,b of Pair.
+
+Correct
+Even though Pair is indicated as a public base class, the derived class equalPair does not have access to the private members of Pair.
+
+10.
+Question 10
+
+C++ is ...
+
+1 / 1 point
+
+... a great language for programming data structures.
+
+... the greatest language for programming data structures ever!
+
+... meh.
+
+Correct
