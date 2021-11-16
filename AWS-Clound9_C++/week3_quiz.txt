@@ -1,0 +1,77 @@
+1.
+Question 1
+Which one of these is the only true statement about a class constructor.
+
+1 / 1 point
+
+A class must have at least one constructor declared for it.
+
+A class can only have one constructor.
+
+When declaring a constructor for a class, the name of the constructor must be the name of the class.
+
+When declaring a constructor for a class, the return type of the constructor must be the type of the class.
+
+Correct
+A constructor cannot be assigned a name other than that of the class itself.
+
+3.
+Question 3
+Recall that a custom assignment operator can be declared such that line 2 of the code below executes a user-defined function to perform the assignment.
+
+Cube a,b(10);
+a = b(10);
+
+Which one of the following statements regarding the declaration of such a custom assignment operator allowing is true?
+
+1 / 1 point
+
+The custom assignment operator function is declared with two arguments: the source and target objects of the assignment.
+
+The type of the custom assignment operator function should be void.
+
+The custom assignment operator is a function declared with the name "operator::assignment".
+
+The custom assignment operator is a public member function of the class.
+
+Correct
+Indeed, the assignment operator is a member function of the class of the target object, and this member function must be public in order for the assignment operator to be used in contexts outside of the class's own implementation as shown in the example in this question.
+
+6.
+Question 6
+Consider the following class:
+
+class Animal {
+  public:
+    Animal();
+    Animal(std::string name);
+    Animal(std::string name, int age);
+    Animal(std::string name, int age, double weight);
+    
+    Animal(const Animal & other);
+    
+    void setName(std::string name);
+    std::string getName();
+
+  private:
+    // ...
+};
+    
+How many  explicit (non-automatic)  constructors are present in the class?
+
+
+1 / 1 point
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Correct
