@@ -184,3 +184,46 @@ A stack cannot be implemented using a linked list.
 Correct
 When implementing a stack as a linked list, a call to push() method creates a new node, sets the head pointer of the linked list to this new node, and the new node's next pointer points to the previous head node of the linked list. Since this value is the last value pushed onto the stack, it indeed will be placed at the head of the list.
 
+10.
+Question 10
+
+Suppose we had the following interface for a stack and queue, along with a correct implementation.
+
+(Note that in this simple version, the "pop" and "dequeue" methods will remove an item and also return a copy of that same item by value. This is a little different from how the C++ Standard Template Library implementations of a stack and queue work. In STL, you have separate functions for peeking at the next value that would be removed, and for actually removing the item.)
+
+class Stack{
+	public:
+		Stack();
+		bool push(int x);
+		int pop();
+		bool isEmpty();
+    // other lines omitted
+};
+
+class Queue{
+
+What output does the following code produce?
+
+main() {
+    Stack s = Stack();
+    Queue q = Queue();
+
+    for(int i = 0; i < 5; i++){
+    	s.push(i);
+    	q.enqueue(i);
+    }
+
+    for(int i=0; i < 5; i++){
+
+
+1 / 1 point
+
+0 1 2 3 4
+
+0 1 2 3 4 4 3 2 1 0
+
+4 3 2 1 0 0 1 2 3 4
+
+4 3 2 1 0
+
+Correct
