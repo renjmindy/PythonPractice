@@ -1,0 +1,132 @@
+1.
+Question 1
+
+int tri(int n) {
+    int i,j;
+    int count = 0;
+
+    for (j=0; j < n; j++)
+        for (i=0; i < j; i++)
+            count++;
+
+    return count;
+}
+
+Perform a run-time analysis of the code above. Express the number of times the variable count is incremented in terms of "Big Oh" notation.
+Recall that  "Big Oh" notation is denoted as O() where the parameter of O() is a simple function of n that indicates how the run-time increases as n increases. For example, if the run-time grows as a polynomial of n, such as "5n^3 + 3n^2" then the "Big-Oh" notation would ignore constants and lower growing terms and simply state O(n^3) growth.
+
+1 / 1 point
+
+O((1/2) n^2)
+
+O(n^2)
+
+O(n^2 + n)
+
+O(1)
+
+Correct
+Even though the number of times the variable count is incremented is n*(n-1)/2 = (1/2) n^2 - (1/2) n, the "Big Oh" notation is only concerned about the order of the growth, which is the growth of the highest degree term (e.g. n^2) ignoring any constant factors of that term (e.g. 1/2).
+
+2.
+Question 2
+
+You have an array that is currently length one and already contains one item. You need to implement a function Append(i) that adds the item i to the position after the current last item of the array. If the array is full, then your Append() function will need to expand the size of the array so that it can store the additional item i. Recall that expanding the size of an array requires allocating new memory for the expanded size and copying all of the current array items to the new (expanded) array before de-allocating the previous (full) array.
+ (It is okay to assume there is always enough memory to allocate for an array.)
+Your Append() function will be called an unknown number of times. Which method for resizing the array would result in the fastest total run-time for calling Append() n times to add n items to the array?
+
+1 / 1 point
+
+Doubling the length of the array every time an item is added when the array is already full.
+
+Increasing the length of the array by one every time an item is added.
+
+Increasing the length of the array by one billion every time an item is added and the array is already full.
+
+Expanding the array to length n + 1 the first time Append() is called.
+
+Correct
+Recall that this strategy requires O(n) operations instead of the others which require O(n^2) to add n items to the array.
+
+3.
+Question 3
+
+Which one statement below is FALSE? Assume we are using the most efficient algorithms discussed in lecture.
+
+1 / 1 point
+
+Finding an item in a sorted array of n items cannot be done in better than O(n) time.
+
+Finding an item in a sorted linked list of n items takes O(n) time.
+
+Adding n items, one at a time, to the front of a linked list takes O(n) time overall.
+
+Adding n items, one at a time, to the end of an array takes O(n) time overall.
+
+Correct
+This is indeed the false statement, because If the array is sorted, then one can perform a binary search of the array by going to the middle of the array to see if that is the correct item. If not, then the correct item would be one one side or the other, such that only half of the array needs to be search. Hence the search space is cut in half each step and O(lg n) steps are needed. (Recall "lg n" is the base 2 logarithm of n, such that if x = lg n, then n = 2^x. If x is not an integer, then O(lg n) would refer to the ceiling of lg n.)
+
+4.
+Question 4
+
+You have a list of 100 items that are not sorted by the item value. Which one task below  would run much faster on a list implemented as an array rather than implemented as a linked list? 
+
+1 / 1 point
+
+Searching the list for all items that match a given item.
+
+Finding the first item.
+
+Inserting a new item between the 24th item and the 25th item.
+
+Replacing the 25th item in the list with a different item.
+
+Correct
+Once you have the 25th item in the list, replacing it with a different item takes just a single step for both an array and a linked list. However, the array can just compute the index (or address) of the 25th item in a single step with a simple formula, whereas a linked list would require 24 steps to follow 24 links past the first item at the head of the list.
+
+6.
+Question 6
+
+Suppose you want to implement a queue ADT using a linked list. Your queue needs to be able to "push" (or "enqueue") a single item in constant time, as well as "pop" (or "dequeue") a single item in constant time. The operations need to happen at opposite ends of the queue, as would be expected of the queue ADT. However, the people who use your queue implementation don't need to know about how exactly it is implemented, so you can be somewhat creative in how you implement it, as long as the "push" and "pop" operations behave as expected. Which of the following implementations can accomplish this? Select all that apply. (For the sake of this question, let's not consider any design strategies that would close the linked list into a circle.)
+
+1 / 1 point
+
+You can do it with a doubly-linked list where the list has a "head" pointer and a "tail" pointer and each node has a "next" pointer and a "previous" pointer.
+
+Correct
+Yes, a full doubly-linked list implementation can do it, because the "head" and "tail" pointers give you O(1) access to both ends of the list, and the "next" and "previous" pointers also allow you to add or remove nodes at either end of the list easily in O(1). But there is also a less memory-intensive implementation that can be used here.
+
+You can't implement a queue as a linked list. You need a more advanced data structure.
+
+You can do it with a modified singly-linked list where the list has both a "head" pointer and a "tail" pointer, but each node has only a "next" pointer.
+
+Correct
+Yes, if you choose to "push" (or "enqueue") incoming items at the tail end of the list, then you can use the "tail" pointer and the tail node's "next" pointer to append a new item to the tail in O(1). You can use the "head" pointer and the head node's "next" pointer to "pop" (or "dequeue") the existing head item in O(1) while updating the head pointer to point to the next item remaining after it in the list. But there is also another implementation option here that could be used.
+
+You can do it with a singly-linked list where the list has only a "head" pointer and each node has only a "next" pointer.
+
+9.
+Question 9
+
+Suppose this stack is implemented as a linked list.
+
+std::stack<int> s;
+s.push(1);
+s.push(2);
+s.push(3);
+
+What is the value at the head of the linked list used to implement the stack s?
+
+1 / 1 point
+
+1
+
+2
+
+3
+
+A stack cannot be implemented using a linked list.
+
+Correct
+When implementing a stack as a linked list, a call to push() method creates a new node, sets the head pointer of the linked list to this new node, and the new node's next pointer points to the previous head node of the linked list. Since this value is the last value pushed onto the stack, it indeed will be placed at the head of the list.
+
