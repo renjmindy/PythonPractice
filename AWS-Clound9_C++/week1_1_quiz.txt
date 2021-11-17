@@ -84,6 +84,24 @@ Replacing the 25th item in the list with a different item.
 Correct
 Once you have the 25th item in the list, replacing it with a different item takes just a single step for both an array and a linked list. However, the array can just compute the index (or address) of the 25th item in a single step with a simple formula, whereas a linked list would require 24 steps to follow 24 links past the first item at the head of the list.
 
+5.
+Question 5
+
+You have a list of 100 items that are not sorted by the item value. Which one task below would run much faster on a list implemented as linked list rather than implemented as an array? 
+
+1 / 1 point
+
+Replacing the 25th item in the list with a different item.
+
+Finding the first item
+
+Searching the list for all items that match a given item.
+
+Inserting a new item between the 24th item and the 25th item.
+
+Correct
+Inserting a new item in the middle of the list implemented as an array requires copying each of the remaining items (25th to 100th) to new locations (26th to 101st), and may require resizing the array. Inserting a new item in the middle of the list implemented as a linked list would require setting the "next" pointer at the 24th item to the new item, and the "next" pointer at the current item to the (previously) 25th item.
+
 6.
 Question 6
 
@@ -104,6 +122,42 @@ Correct
 Yes, if you choose to "push" (or "enqueue") incoming items at the tail end of the list, then you can use the "tail" pointer and the tail node's "next" pointer to append a new item to the tail in O(1). You can use the "head" pointer and the head node's "next" pointer to "pop" (or "dequeue") the existing head item in O(1) while updating the head pointer to point to the next item remaining after it in the list. But there is also another implementation option here that could be used.
 
 You can do it with a singly-linked list where the list has only a "head" pointer and each node has only a "next" pointer.
+
+7.
+Question 7
+
+When implementing a queue which will need to support a large number of calls to its push() and pop() methods, which choice of data structure results in a faster run time according to "Big Oh" O() analysis?
+
+1 / 1 point
+
+The linked list implementation of a queue has a better run time complexity than does the array implementation.
+
+A linked list because an array cannot be used to implement a queue that supports both push() and pop() methods.
+
+Both array and linked list implementations of a queue have the same run time complexity.
+
+The array implementation of a queue has a better run time complexity than does the linked list implementation.
+
+Correct
+The push() and pop() methods can be implemented in constant time O(1) for both an array and a linked list. Push and pop run in amortized constant time O(1) for an array, but the large number of calls to push() and pop() will ensure the cost of resizing the array is properly amortized by the benefits of the array.
+
+8.
+Question 8
+
+When implementing a stack which will need to support a large number of calls to its push() and pop() methods, which choice of data structure results in a faster run time according to "Big Oh" O() analysis?
+
+1 / 1 point
+
+An array implementation because a linked list cannot be used to implement a stack that supports both push() and pop() methods.
+
+Both array and linked list implementations of a stack have the same run time complexity.
+
+The array implementation of a stack has a better run time complexity than does the linked list implementation.
+
+The linked list implementation of a stack has a better run time complexity than does the array implementation.
+
+Correct
+The push() and pop() methods can be implemented in constant time O(1) for both an array and a linked list. Push and pop run in amortized constant time O(1) for an array, but the large number of calls to push() and pop() will ensure the cost of resizing the array is properly amortized by the benefits of the array.
 
 9.
 Question 9
