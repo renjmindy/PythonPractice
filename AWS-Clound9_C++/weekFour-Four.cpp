@@ -84,7 +84,7 @@ child exists, [null] is displayed.
 
   if(n->left != nullptr && n->right != nullptr) {
     if(n->left->value <= n->right->value) {
-      sn = n->left;
+        sn = n->left;
       }
       else {
         sn = n->right;
