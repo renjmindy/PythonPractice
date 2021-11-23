@@ -103,74 +103,74 @@ public:
   };
 
   // TASK 1:
-// dsunion performs disjoint set union. The reported leader of vertex j
-// will become the leader of vertex i as well.
-// Assuming it is only called once per pair of vertices i and j,
-// it can detect when a set is including an edge that completes a cycle.
-// This is evident when a vertex is assigned a leader that is the same
-// as the one it was already assigned previously.
-// Also, if you join two sets where either set already was known to
-// have a cycle, then the joined set still has a cycle.
-// Modify the implementation of dsunion below to properly adjust the
-// has_cycle array so that query_cycle(root_j) accurately reports
-// whether the connected component of root_j contains a cycle.
-void DisjointSets::dsunion(int i, int j) {
-  bool i_had_cycle = query_cycle(i);
-  bool j_had_cycle = query_cycle(j);
-  int root_i = find_leader(i);
-  int root_j = find_leader(j);
-  if (root_i != root_j) {
-    leader[root_i] = root_j;
-    root_i = root_j;
-  }
-  else {
-    // A cycle is detected when dsunion is performed on an edge
-    // where both vertices already report the same set leader.
-    // TODO: Your work here! Update has_cycle accordingly.
-    has_cycle[root_i] = true;
-  }
-  // Also, if either one of the original sets was known to have a cycle
-  // already, then the newly joined set still has a cycle.
-  // TODO: Your work here!
-  if (i_had_cycle || j_had_cycle) {
-    has_cycle[root_i] = true;
-    has_cycle[root_j] = true;
-     }
-  return;
-}
-
-// TASK 2:
-// count_comps should count how many connected components there are in
-// the graph, and it should set the num_components member variable
-// to that value. The input n is the number of vertices in the graph.
-// (Remember, the vertices are numbered with indices 0 through n-1.)
-void DisjointSets::count_comps(int n) {
-
-  // Insert code here to count the number of connected components
-  // and store it in the "num_components" member variable.
-  // Hint: If you've already performed set union on all the apparent edges,
-  //  what information can you get from the leaders now?
-
-  // TODO: Your work here!
-  
-  //num_components = 0;
-  std::map <int, int> component_dict;
-
-  for(int i = 0 ; i < n ; i ++)
-  {
-    //if(leader[i] < 0)
-    //{
-    //  num_components++;
-    //}
-    if (find_leader(i) >= 0) {
-       component_dict[find_leader(i)] += 1;
+  // dsunion performs disjoint set union. The reported leader of vertex j
+  // will become the leader of vertex i as well.
+  // Assuming it is only called once per pair of vertices i and j,
+  // it can detect when a set is including an edge that completes a cycle.
+  // This is evident when a vertex is assigned a leader that is the same
+  // as the one it was already assigned previously.
+  // Also, if you join two sets where either set already was known to
+  // have a cycle, then the joined set still has a cycle.
+  // Modify the implementation of dsunion below to properly adjust the
+  // has_cycle array so that query_cycle(root_j) accurately reports
+  // whether the connected component of root_j contains a cycle.
+  void DisjointSets::dsunion(int i, int j) {
+    bool i_had_cycle = query_cycle(i);
+    bool j_had_cycle = query_cycle(j);
+    int root_i = find_leader(i);
+    int root_j = find_leader(j);
+    if (root_i != root_j) {
+      leader[root_i] = root_j;
+      root_i = root_j;
     }
+    else {
+      // A cycle is detected when dsunion is performed on an edge
+      // where both vertices already report the same set leader.
+      // TODO: Your work here! Update has_cycle accordingly.
+      has_cycle[root_i] = true;
+    }
+    // Also, if either one of the original sets was known to have a cycle
+    // already, then the newly joined set still has a cycle.
+    // TODO: Your work here!
+    if (i_had_cycle || j_had_cycle) {
+      has_cycle[root_i] = true;
+      has_cycle[root_j] = true;
+     }
+    return;
   }
 
-  num_components = component_dict.size();
+  // TASK 2:
+  // count_comps should count how many connected components there are in
+  // the graph, and it should set the num_components member variable
+  // to that value. The input n is the number of vertices in the graph.
+  // (Remember, the vertices are numbered with indices 0 through n-1.)
+  void DisjointSets::count_comps(int n) {
+
+    // Insert code here to count the number of connected components
+    // and store it in the "num_components" member variable.
+    // Hint: If you've already performed set union on all the apparent edges,
+    //  what information can you get from the leaders now?
+
+    // TODO: Your work here!
   
-  return;
-}
+    //num_components = 0;
+    std::map <int, int> component_dict;
+
+    for(int i = 0 ; i < n ; i ++)
+    {
+      //if(leader[i] < 0)
+      //{
+      //  num_components++;
+      //}
+      if (find_leader(i) >= 0) {
+        component_dict[find_leader(i)] += 1;
+      }
+    }
+
+    num_components = component_dict.size();
+  
+    return;
+  }
 
 int main() {
 
