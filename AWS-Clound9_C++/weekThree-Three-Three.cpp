@@ -172,47 +172,47 @@ public:
     return;
   }
 
-int main() {
+  int main() {
 
-  constexpr int NUM_EDGES = 9;
-  constexpr int NUM_VERTS = 8;
+    constexpr int NUM_EDGES = 9;
+    constexpr int NUM_VERTS = 8;
 
-  int edges[NUM_EDGES][2] = {{0,1},{1,2},{3,4},{4,5},{5,6},{6,7},{7,3},{3,5},{4,6}};  
+    int edges[NUM_EDGES][2] = {{0,1},{1,2},{3,4},{4,5},{5,6},{6,7},{7,3},{3,5},{4,6}};  
 
-  DisjointSets d;
+    DisjointSets d;
 
-  // The union operations below should also maintain information
-  // about whether leaders are part of connected components that
-  // contain cycles. (See TASK 1 above where dsunion is defined.)
-  for (int i = 0; i < NUM_EDGES; i++)
-    d.dsunion(edges[i][0],edges[i][1]);
+    // The union operations below should also maintain information
+    // about whether leaders are part of connected components that
+    // contain cycles. (See TASK 1 above where dsunion is defined.)
+    for (int i = 0; i < NUM_EDGES; i++)
+      d.dsunion(edges[i][0],edges[i][1]);
 
-  // The count_comps call below should count the number of components.
-  // (See TASK 2 above where count_comps is defined.)
-  d.count_comps(NUM_VERTS);
+    // The count_comps call below should count the number of components.
+    // (See TASK 2 above where count_comps is defined.)
+    d.count_comps(NUM_VERTS);
 
-  std::cout << "For edge list: ";
-  for (int i = 0; i < NUM_EDGES; i++) {
-    std::cout << "(" << edges[i][0] << ","
-         << edges[i][1] << ")"
-         // This avoids displaying a comma at the end of the list.
-         << ((i < NUM_EDGES-1) ? "," : "\n");
+    std::cout << "For edge list: ";
+    for (int i = 0; i < NUM_EDGES; i++) {
+      std::cout << "(" << edges[i][0] << ","
+           << edges[i][1] << ")"
+           // This avoids displaying a comma at the end of the list.
+          << ((i < NUM_EDGES-1) ? "," : "\n");
+    }
+
+    std::cout << "You counted num_components: " << d.num_components << std::endl; 
+
+    // The output for the above set of edges should be:
+    // You counted num_components: 2
+
+    std::cout << "Cycle reported for these vertices (if any):" << std::endl;
+    for (int i=0; i<NUM_VERTS; i++) {
+      if (d.query_cycle(i)) std::cout << i << " ";
+    }
+    std::cout << std::endl;
+
+    // The cycle detection output for the above set of edges should be:
+    // Cycle reported for these vertices (if any):
+    // 3 4 5 6 7 
+
+    return 0;
   }
-
-  std::cout << "You counted num_components: " << d.num_components << std::endl; 
-
-  // The output for the above set of edges should be:
-  // You counted num_components: 2
-
-  std::cout << "Cycle reported for these vertices (if any):" << std::endl;
-  for (int i=0; i<NUM_VERTS; i++) {
-    if (d.query_cycle(i)) std::cout << i << " ";
-  }
-  std::cout << std::endl;
-
-  // The cycle detection output for the above set of edges should be:
-  // Cycle reported for these vertices (if any):
-  // 3 4 5 6 7 
-
-  return 0;
-}
