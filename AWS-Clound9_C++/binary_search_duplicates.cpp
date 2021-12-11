@@ -50,9 +50,6 @@ int binary_search(const vector<int> &a, int x) {
   if (lindex == -1 && rindex == -1) {
     return -1;
   } 
-  else if (lindex >= 0 && rindex >= 0) {
-    return lindex;
-  }
   else {
     return (lindex >= 0) ? lindex : rindex;
   }
