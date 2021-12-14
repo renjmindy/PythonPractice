@@ -48,23 +48,12 @@ long long get_number_of_inversions(vector<int> &a, vector<int> &b, size_t left, 
   long long number_of_inversions = 0;
   if (right <= left) return number_of_inversions;
   size_t ave = left + (right - left) / 2;
-  //cout << "(0): " << number_of_inversions << " - " << left << " " << ave << " " << right << endl;
+ 
   number_of_inversions += get_number_of_inversions(a, b, left, ave);
-  //cout << "(1): " << number_of_inversions << " - " << left << " " << ave << " " << right << endl;
-  //for (auto i : b) {
-  //  cout << "\t(1-1) b: " << i << endl;
-  //}
   number_of_inversions += get_number_of_inversions(a, b, ave + 1, right);
-  //cout << "(2): " << number_of_inversions << " - " << left << " " << ave << " " << right << endl;
-  //for (auto i : b) {
-  //  cout << "\t(2-1) b: " << i << endl;
-  //}
   //write your code here
-  //cout << "\t---------\n";
   number_of_inversions += merge(a, b, left, ave + 1, right);
-  //for (auto i : a) {
-  //  cout << "\t(2-2) a: " << i << endl;
-  //}
+  
   return number_of_inversions;
 }
 
