@@ -1,5 +1,5 @@
 # Algorithmic Toolbox [Certification](https://www.coursera.org/account/accomplishments/verify/WNV8TPQ5GPBZ)
-Assignments for Algorithmic Toolbox on Coursera </br>
+Assignments for [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) on Coursera </br>
 
 ## Week 1
 ### Solving a Simple Code Problem
