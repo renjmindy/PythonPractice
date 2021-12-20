@@ -12,15 +12,14 @@ public:
         }
         sort(s.begin(), s.end());
         sort(e.begin(), e.end());
-        int ini = 0, fin = 0, count = 0;
-        for (int i = 0; i < intervals.size(); i++) {
+        int fin = 0, count = 0;
+        for (int ini = 0; ini < intervals.size(); ini++) {
             if (s[ini] < e[fin]) {
                 count += 1;
             }
             else {
                 fin++;
             }
-            ini++;
         }
         return count;
     }
