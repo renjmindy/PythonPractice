@@ -5,7 +5,7 @@ public:
             return s.size();
         }
         unordered_map<char, int> mp;
-        int max_len = 2, ans = 0;
+        int max_len = 2;
         for (int r = 0, l = 0; r < s.size(); r++) {
             mp[s[r]] = r;
             if (mp.size() == 3) {
