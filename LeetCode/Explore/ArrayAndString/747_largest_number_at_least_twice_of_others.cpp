@@ -6,6 +6,6 @@ public:
       }
       vector<int> nums_clone = nums;
       sort(nums_clone.begin(), nums_clone.end(), greater<int>());
-      return nums_clone[0] == nums_clone[1]*2 ? max_element(nums.begin(), nums.end()) - nums.begin() : -1;
+      return nums_clone[0] >= nums_clone[1]*2 ? max_element(nums.begin(), nums.end()) - nums.begin() : -1;
     }
 };
