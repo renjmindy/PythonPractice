@@ -24,10 +24,11 @@ public:
       if (!head) {
         return head;
       }
-      if (mp.count[head]) {
+      if (mp.count(head)) {
         return mp[head];
       }
       Node *p = new Node(head->val);
+      mp[head] = p;  
       p->next = copyRandomList(head->next);
       p->random = copyRandomList(head->random);
       return p;
