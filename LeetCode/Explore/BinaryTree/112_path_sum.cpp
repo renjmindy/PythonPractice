@@ -13,7 +13,7 @@ class Solution {
 
 private:
   bool ans = false;
-  void isZero(TreeNode *root, int targetSum, bool &ans) {
+  void isZeroTree(TreeNode *root, int targetSum, bool &ans) {
     if (!root) {
       return;
     }
@@ -21,10 +21,10 @@ private:
       ans = true;
     }
     if (root->left) {
-      isZero(root->left, targetSum - root->val, ans);
+      isZeroTree(root->left, targetSum - root->val, ans);
     }
     if (root->right) {
-      isZero(root->right, targetSum - root->val, ans);
+      isZeroTree(root->right, targetSum - root->val, ans);
     }
   }
   
@@ -33,7 +33,7 @@ public:
     if (!root) {
       return false;
     }
-    isZero(root, targetSum, ans);
+    isZeroTree(root, targetSum, ans);
     return ans;
   }
 };
