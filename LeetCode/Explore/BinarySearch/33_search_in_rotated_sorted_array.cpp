@@ -8,7 +8,7 @@ public:
           return pivot;
         }
         if (nums[l] <= nums[pivot]) {
-          if (nums[pivot] >= target && nums[l] <= target) {
+          if (nums[pivot] > target && nums[l] <= target) {
             r = pivot - 1;
           }
           else {
@@ -16,7 +16,7 @@ public:
           }
         }
         else {
-          if (nums[pivot] <= target && nums[r] >= target) {
+          if (nums[pivot] < target && nums[r] >= target) {
             l = pivot + 1;
           }
           else {
