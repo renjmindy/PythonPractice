@@ -2,14 +2,17 @@ class Solution {
 
 private:
   double fastPow(double x, long long N) {
-    if (N <= 1) {
-      return x;
-    }
-    if (N % 2) {
-      return fastPow(x, N/2) * fastPow(x, N/2) * x;
+    if (N == 0) {
+      return 1;
     }
     else {
-      return fastPow(x, N/2) * fastPow(x, N/2);
+      double half = fastPow(x, N/2);
+      if (N % 2) {
+        return half * half * x;
+      }
+      else {
+        return half * half;
+      }
     }
   }
   
