@@ -13,11 +13,11 @@ class Solution {
         
 public:
   int closestValue(TreeNode* root, double target) {
-    int val, minVal = root->val;
+    int val = root->val, minVal = root->val;
     while (root) {
       val = root->val;
       minVal = abs(target - val) < abs(target - minVal) ? val : minVal;
-      root = target < root->val ? root->left : root->right;
+      root = target < val ? root->left : root->right;
     }
     return minVal;
   }
