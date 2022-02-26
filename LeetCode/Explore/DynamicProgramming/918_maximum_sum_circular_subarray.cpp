@@ -10,9 +10,6 @@ public:
       curMinVal = min(nums[i], curMinVal + nums[i]);
       minSum = min(minSum, curMinVal);
     }
-    if (totSum == minSum) {
-      return maxSum;
-    }
-    return max(totSum - minSum, maxSum);
+    return totSum == minSum ? maxSum : max(totSum - minSum, maxSum);
   }
 };
