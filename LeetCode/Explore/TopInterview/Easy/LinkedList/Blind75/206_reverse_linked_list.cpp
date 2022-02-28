@@ -12,8 +12,7 @@ class Solution {
   
 public:
   ListNode* reverseList(ListNode* head, ListNode *pre = nullptr) {
-    // if we reached the end, then the previous node 
-		// must be the head of the reversed list
+    // if we reached the end, then the previous node must be the head of the reversed list
     if (!head) {
       return pre;
     }
