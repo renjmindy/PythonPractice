@@ -12,11 +12,13 @@ class Solution {
   
 public:
   ListNode* reverseList(ListNode* head, ListNode *pre = nullptr) {
+    // if we reached the end, then the previous node 
+		// must be the head of the reversed list
     if (!head) {
       return pre;
     }
-    ListNode *next = head->next;
-    head->next = pre;
-    return reverseList(next, head);
+    ListNode *next = head->next; // Remember the next node
+    head->next = pre; // Reverse the current node
+    return reverseList(next, head); // Reverse the remainder of the list
   }
 };
