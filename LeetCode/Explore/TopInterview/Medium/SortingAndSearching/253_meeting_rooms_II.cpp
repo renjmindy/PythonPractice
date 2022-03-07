@@ -10,7 +10,7 @@ public:
     sort(end.begin(), end.end());
     int counter = 0;
     for (int l = 0, r = 0; l < intervals.size(); l++) {
-      if (start[l] < end[r]) { // start time earlier than end time --> plus one room 
+      if (start[l] < end[r]) { // start time earlier than end time --> plus one more room 
         counter++;
       } 
       else {
