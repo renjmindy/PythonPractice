@@ -14,12 +14,12 @@ class Solution {
 private:
   vector<TreeNode*> ans;
   unordered_map<string, int> mp;
-  string postOrder(TreeNode *root, unordered_map<string, int> &mp, vector<TreeNode*> &ans) {
+  string preOrder(TreeNode *root, unordered_map<string, int> &mp, vector<TreeNode*> &ans) {
     if (!root) {
       return " ";
     }
   
-    string cstr = to_string(root->val) + " " + postOrder(root->left, mp, ans) + " " + postOrder(root->right, mp, ans);
+    string cstr = to_string(root->val) + " " + preOrder(root->left, mp, ans) + " " + preOrder(root->right, mp, ans);
     
     if (mp[cstr] == 1) {
       ans.push_back(root);
