@@ -31,7 +31,7 @@ private:
   
 public:
   vector<TreeNode*> findDuplicateSubtrees(TreeNode* root) {
-    postOrder(root, mp, ans);
+    preOrder(root, mp, ans);
     return ans;
   }
 };
