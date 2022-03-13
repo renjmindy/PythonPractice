@@ -1,4 +1,4 @@
-// two pass hash table
+// two pass dynamical programming (bottom-up tabulation)
 // Complexity analysis
 // Time complexity : O(N)O(N) where NN represents the number of elements in the input array. 
 // we use one iteration to construct the array LL, one to update the array answeranswer.
@@ -12,7 +12,8 @@ public:
     vector<int> dp(nums.size(), 1);
     for (int i = 0; i < nums.size(); i++) {
       dp[i] *= mul;
-      mul *= nums[i];
+      mul *= nums[i]; 
+      // dp[i] = dp[i - 1] * nums[i - 1];
     }
     mul = 1;
     for (int i = nums.size() - 1; i >= 0; i--) {
