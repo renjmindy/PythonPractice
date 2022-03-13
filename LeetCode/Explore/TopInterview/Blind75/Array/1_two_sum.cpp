@@ -25,6 +25,7 @@ public:
 [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
 [15. 3Sum](https://leetcode.com/problems/3sum/)
 [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+[259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)
 [923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
 [18. 4Sum](https://leetcode.com/problems/4sum/)
 [454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
