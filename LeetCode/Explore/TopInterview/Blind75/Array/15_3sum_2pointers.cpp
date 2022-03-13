@@ -1,4 +1,4 @@
-// two pointers
+// two pointers binary search
 // Complexity Analysis
 // Time Complexity: \mathcal{O}(n^2)O(n2). twoSumII is \mathcal{O}(n)O(n), and we call it nn times.
 // Sorting the array takes \mathcal{O}(n\log{n})O(nlogn), so overall complexity is \mathcal{O}(n\log{n} + n^2)O(nlogn+n2). 
