@@ -1,11 +1,8 @@
 // two pointers
-
 // Complexity Analysis
-
 // Time Complexity: \mathcal{O}(n^2)O(n2). twoSumII is \mathcal{O}(n)O(n), and we call it nn times.
 // Sorting the array takes \mathcal{O}(n\log{n})O(nlogn), so overall complexity is \mathcal{O}(n\log{n} + n^2)O(nlogn+n2). 
 // This is asymptotically equivalent to \mathcal{O}(n^2)O(n2).
-
 // Space Complexity: from \mathcal{O}(\log{n})O(logn) to \mathcal{O}(n)O(n), depending on the implementation of the sorting algorithm. 
 // For the purpose of complexity analysis, we ignore the memory required for the output.
 
