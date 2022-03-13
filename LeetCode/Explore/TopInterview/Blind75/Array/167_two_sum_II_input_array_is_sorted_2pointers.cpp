@@ -1,4 +1,4 @@
-// two pointers
+// two pointers binary search
 // Complexity Analysis
 // Time complexity: O(n)O(n). The input array is traversed at most once. Thus the time complexity is O(n)O(n).
 // Space complexity: O(1)O(1). We only use additional space to store two indices and the sum, so the space complexity is O(1)O(1).
