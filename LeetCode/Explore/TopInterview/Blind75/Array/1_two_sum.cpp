@@ -18,3 +18,13 @@ public:
     return ans;
   }
 };
+
+[1099. Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)
+[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+[170. Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)                            
+[653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
+[15. 3Sum](https://leetcode.com/problems/3sum/)
+[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+[923. 3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)
+[18. 4Sum](https://leetcode.com/problems/4sum/)
+[454. 4Sum II](https://leetcode.com/problems/4sum-ii/)
