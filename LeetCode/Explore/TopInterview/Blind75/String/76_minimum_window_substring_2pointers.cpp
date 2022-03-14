@@ -22,8 +22,9 @@ public:
       if (count < t.size()) {
         continue;
       }
-      // when reaching to t's size
-      while (l < s.size() && mp[s[l]] < 0) { // only count distinct letters surrounding by characters existing in both s & t
+      // when counts are sufficient enough, meaning reaching to t string's size
+      // sliding window shifts towards right
+      while (l < s.size() && mp[s[l]] < 0) { // requiring < 0 because we only count distinct letters surrounding by characters existing in both s & t
         mp[s[l]]++;
         l++;
       }
