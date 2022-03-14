@@ -12,6 +12,8 @@ public:
     for (int r = 0, l = 0; r < s.size(); r++) {
       mp[s[r]]++;
       count = max(count, mp[s[r]]);
+      // when repeating counts are too small to get one longest repeating string
+      // sliding window shifts towards right 
       if (r - l + 1 - count > k) {
         mp[s[l]]--;
         l++;
