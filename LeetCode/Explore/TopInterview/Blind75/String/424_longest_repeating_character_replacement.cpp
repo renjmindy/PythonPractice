@@ -1,4 +1,8 @@
 // two pointers sliding window hash table
+// Complexity Analysis
+// Time Complexity: O(|S|)O(∣S∣) where |S| represents the length of string SS. 
+// In the worst case we might end up visiting every element of string SS twice, once by left pointer and once by right pointer. 
+// Space Complexity: O(|S|)O(∣S∣). |S|∣S∣ when the window size is equal to the entire string SS. 
 
 class Solution {
 public:
@@ -8,7 +12,7 @@ public:
     for (int r = 0, l = 0; r < s.size(); r++) {
       mp[s[r]]++;
       count = max(count, mp[s[r]]);
-      if (r -l + 1 - count > k) {
+      if (r - l + 1 - count > k) {
         mp[s[l]]--;
         l++;
       }
