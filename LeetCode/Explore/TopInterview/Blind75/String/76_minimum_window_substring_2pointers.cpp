@@ -23,7 +23,7 @@ public:
         continue;
       }
       // when reaching to t's size
-      while (l < s.size() && mp[s[l]] < 0) { // only count distinct letters in both s & t
+      while (l < s.size() && mp[s[l]] < 0) { // only count distinct letters surrounding by characters existing in both s & t
         mp[s[l]]++;
         l++;
       }
