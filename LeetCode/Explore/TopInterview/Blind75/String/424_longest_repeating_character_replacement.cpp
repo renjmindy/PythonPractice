@@ -1,4 +1,4 @@
-// two pointers sliding window 
+// two pointers sliding window hash table
 
 class Solution {
 public:
