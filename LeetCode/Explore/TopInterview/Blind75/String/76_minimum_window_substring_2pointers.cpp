@@ -1,4 +1,4 @@
-// two pointers sliding window dynamical programming
+// two pointers sliding window hash table
 // Complexity Analysis
 // Time Complexity: O(|S| + |T|)O(∣S∣+∣T∣) where |S| and |T| represent the lengths of strings SS and TT. 
 // In the worst case we might end up visiting every element of string SS twice, once by left pointer and once by right pointer. 
