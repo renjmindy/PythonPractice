@@ -5,8 +5,6 @@
 // This is asymptotically equivalent to \mathcal{O}(n^2)O(n2).
 // Space Complexity: from \mathcal{O}(\log{n})O(logn) to \mathcal{O}(n)O(n), depending on the implementation of the sorting algorithm.
 
-
-
 class Solution {
 public:
   int threeSumClosest(vector<int>& nums, int target) {
