@@ -1,4 +1,5 @@
 // dynamical programming: bottom-up tabulation
+
 // Complexity Analysis
 // Time complexity : O(S*n)O(S∗n). On each step the algorithm finds the next F(i)F(i) in nn iterations, where 1\leq i \leq S1≤i≤S. 
 // Therefore in total the iterations are S*nS∗n.
