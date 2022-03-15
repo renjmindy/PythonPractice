@@ -1,4 +1,4 @@
-// dynamical programming: recursion memorization
+// dynamical programming: Recursion with Memorization
 
 // Complexity Analysis
 // Time complexity : O(S*n)O(S∗n). where S is the amount, n is denomination count. 
