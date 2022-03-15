@@ -1,4 +1,5 @@
-// 
+// dynamical programming
+
 // Complexity Analysis
 // Time Complexity: O(N^2)O(N2) for input string of length NN. The number of dynamic programming states that need to calculated is the same as the number of substrings 
 // i.e. {N \choose 2} = N(N-1)/2(2N​)=N(N−1)/2. Each state can be calculated in constant time using a previously calculated state. 
