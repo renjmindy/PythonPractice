@@ -1,9 +1,7 @@
-// ...
+// A char (1 byte) is able to hold the character count of a string (max length is 200).
 
 class Codec {
-
 public:
-  
   // Encodes a list of strings to a single string.
   string encode(vector<string>& strs) {
     string ans;
@@ -42,28 +40,22 @@ public:
     // Encodes a list of strings to a single string.
     string encode(vector<string>& strs) {
         string encoded;
-        
         for (string x: strs){
             encoded += to_string(x.size()) + delimeter + x;
         }
-        return encoded;
-        
+        return encoded;      
     }
 
     // Decodes a single string to a list of strings.
     vector<string> decode(string s) {
         vector<string> ans;
-        
         int i = 0;
         while (i < s.size()){
             int delimeterIdx = s.find(delimeter, i);
             int stringSize = stoi(s.substr(i, delimeterIdx - i));  
             ans.push_back(s.substr(delimeterIdx + 1, stringSize));
-            
             i = delimeterIdx + stringSize + 1;
-                          
         }
-        
         return ans;
     }
 };
