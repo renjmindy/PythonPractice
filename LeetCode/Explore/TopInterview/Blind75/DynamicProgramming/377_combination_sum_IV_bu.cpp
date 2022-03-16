@@ -11,13 +11,16 @@
 class Solution {
 public:
   int combinationSum4(vector<int>& nums, int target) {
-    vector<int> dp(target + 1, 0); // similar to total amount of money
+    vector<unsigned int> dp(target + 1, 0); // similar to total amount of money
     sort(nums.begin(), nums.end()); // similar to an array of different coins
     dp[0] = 1;
     for (int i = 1; i < target + 1; i++) {
       for (auto &num : nums) {
         if (num <= i) {
           dp[i] += dp[i - num];
+        }
+        else {
+          break;
         }
       }
     }
