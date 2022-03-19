@@ -19,7 +19,7 @@ public:
     
   TrieNode() {
     isEnd = false;
-    for (int i = 0; i < 26; i++){
+    for (int i = 0; i < 26; i++) {
         child[i] = NULL;
     }
   }
@@ -36,7 +36,7 @@ public:
     void addWord(string word) {
       TrieNode* p = root;
       for (auto &c : word) {
-        if (!p->child[c - 'a']){
+        if (!p->child[c - 'a']) {
           p->child[c - 'a'] = new TrieNode();
         }
         p = p->child[c - 'a'];
