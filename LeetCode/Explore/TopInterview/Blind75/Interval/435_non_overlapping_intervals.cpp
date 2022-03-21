@@ -22,3 +22,28 @@ public:
     return ans;
   }
 };
+
+// alternative:
+
+static bool comp(vector<int>&a, vector<int>&b) {
+        return a[1] < b[1];
+}
+class Solution {
+public:
+  int eraseOverlapIntervals(vector<vector<int>>& intervals) {
+    vector<vector<int> > ans;
+    int count = 0;
+    sort(intervals.begin(), intervals.end(), comp);
+    ans.push_back(intervals[0]);
+    for (int i = 1, j = 0; i < intervals.size(); i++) {
+      if (intervals[i][0] < ans[j][1]) {
+        count++;
+      }
+      else {
+        ans.push_back(intervals[i]);
+        j++;
+      }
+    }
+    return count;
+  }
+};
