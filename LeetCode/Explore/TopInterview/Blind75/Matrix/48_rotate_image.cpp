@@ -5,8 +5,7 @@
 // Time complexity : \mathcal{O}(M)O(M). We perform two steps; transposing the matrix, and then reversing each row. 
 // Transposing the matrix has a cost of \mathcal{O}(M)O(M) because we're moving the value of each cell once. 
 // Reversing each row also has a cost of \mathcal{O}(M)O(M), because again we're moving the value of each cell once.
-
-Space complexity : \mathcal{O}(1)O(1) because we do not use any other additional data structures.
+// Space complexity : \mathcal{O}(1)O(1) because we do not use any other additional data structures.
 
 class Solution {
 
