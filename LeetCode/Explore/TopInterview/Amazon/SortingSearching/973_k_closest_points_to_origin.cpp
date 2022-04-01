@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
       typedef pair<int, int> P;
-      priority_queue<P, vector<P>, greater<P> > pq; // ascending
+      priority_queue<P, vector<P>, greater<P> > pq; // descending
       vector<vector<int> > ans;
       for (int i = 0; i < points.size(); i++) {
         pq.push(make_pair(pow(points[i][0], 2) + pow(points[i][1], 2), i));
