@@ -29,13 +29,13 @@ private:
     // label visited already
     ocean[i][j] = true;
     
-    // from north
-    dfs(heights, i - 1, j, heights[i][j], ocean);
     // from south
+    dfs(heights, i - 1, j, heights[i][j], ocean);
+    // from north
     dfs(heights, i + 1, j, heights[i][j], ocean);
-    // from east
-    dfs(heights, i, j + 1, heights[i][j], ocean);
     // from west
+    dfs(heights, i, j + 1, heights[i][j], ocean);
+    // from east
     dfs(heights, i, j - 1, heights[i][j], ocean);
     
   }
