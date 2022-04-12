@@ -2,7 +2,7 @@ class Solution {
   
 private:
   void dfs(int cur, vector<vector<int> > &isConnected, vector<bool> &visited) {
-    for (int i = 0; i < isConnected.size(); i++) {
+    for (int i = 0; i < isConnected[cur].size(); i++) {
       if (isConnected[cur][i] && !visited[i]) {
         visited[i] = true;
         dfs(i, isConnected, visited);
