@@ -3,12 +3,12 @@ public:
     //convert the graph into adjacency list first 
     //number of dfs is the number of components
     
-    void dfs(vector<vector<int>>& adj, int node, vector<bool>& visited) {
+    void dfs(int node, vector<bool>& visited, vector<vector<int>>& adj) {
         visited[node] = true;
         
         for (int i = 0; i < adj[node].size(); i++) {
             if (!visited[adj[node][i]]) {
-                dfs(adj, adj[node][i], visited);
+                dfs(adj[node][i], visited, adj);
             }
         }        
     }
@@ -26,7 +26,7 @@ public:
         for (int i = 0; i < n; i++) {
             if (!visited[i]) {
                 ans++;
-                dfs(adj, i, visited);
+                dfs(i, visited, adj);
             }            
         }
         return ans;
