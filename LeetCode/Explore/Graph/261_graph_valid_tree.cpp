@@ -1,3 +1,41 @@
+private:
+  bool dfs(int cur, vector<int> &visited, vector<vector<int> > &adj) { // is cycle detected?
+    // yes, return false
+    // no, return true
+    if (visited[cur] == 2) {
+      return false;
+    }
+    else if (visited[cur] == 1) {
+      return true;
+    }
+    visited[cur] = 1;
+    for (auto &neighbor : adj[cur]) {
+      if (!dfs(neighbor, visited, adj)) {
+        return false;
+      }
+    }
+    visited[cur] = 2;
+    return true;
+  }
+  
+public:
+    bool validTree(int n, vector<vector<int>>& edges) {
+      vector<int> visited(n, 0);
+      vector<vector<int> > adj(n);
+      for (auto &edge : edges) {
+        adj[edge[0]].push_back(edge[1]);
+        adj[edge[1]].push_back(edge[0]);
+      }
+      bool tf = dfs(0, visited, adj);
+      for (auto &v : visited) {
+        if (!v) {
+          return false;
+        }
+      }
+      return tf;
+    }
+};
+
 class Solution {
   
 private:
