@@ -26,7 +26,7 @@ private:
       root->right = root->left;
       root->left = nullptr;
     }
-    return !r ? l : r;
+    return r ? r : l;
   }
   
 public:
